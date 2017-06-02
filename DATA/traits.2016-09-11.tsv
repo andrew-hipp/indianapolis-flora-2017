@@ -1,0 +1,1176 @@
+region	MC Hist	MC Now	Species	Family	Status	Growth form	Life form	Life Span	Clonality 	Spinescence	Leaf Periodicity 1=evergreen 2=deciduous 3=semi-evergreen	Dispersal mode	Pollination System	FOREST	WOODLAND	SCRUBLAND	DWARF SCRUB	NATURAL GRASSLAND	SEMI-NATURAL GRASSLAND	COASTAL DUNES	H2O FRESH	H2O SALINE	DESERT	RIPARIAN	ANTHROPOGNEIC	AGRICULTURAL	
+1	1	1	Abutilon theophrasti	Malvaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	1	Acalypha deamii	Euphorbiaceae	0	1	5	1	1	0	2	1	1								1				1		2
+1	0	0	Acalypha ostryifolia	Euphorbiaceae	0	1	5	1	1	0	2	1	0												1	1	2
+1	0	0	Acalypha rhomboidea	Euphorbiaceae	0	1	5	1	1	0	2	1	0												1		1
+1	1	1	Acalypha virginica	Euphorbiaceae	0	1	5	1	1	0	2	2	1		1				1						1		3
+1	1	1	Acer negundo	Sapindaceae	0	5	1	3	1	0	2	2	1	1										1			2
+1	1	1	Acer nigrum	Sapindaceae	0	5	1	3	1	0	2	2	1	1	1												2
+1	0	1	Acer platanoides	Sapindaceae	1	5	1	3	1	0	2	2	1		1										1		2
+1	1	1	Acer rubrum	Sapindaceae	0	5	1	3	1	0	2	2	1		1						1			1			3
+1	1	1	Acer saccharinum	Sapindaceae	0	5	1	3	1	0	2	2	1											1			1
+1	1	1	Acer saccharum	Sapindaceae	0	5	1	3	1	0	2	2	1	1	1												2
+1	1	1	Achillea millefolium	Asteraceae	1	1	3	3	2	0	2	2	1		1				1						1		3
+1	1	0	Acorus americanus	Acoraceae	0	1	6	3	3	0	2	2	0								1						1
+1	0	1	Acorus calamus	Acoraceae	0	1	6	3	3	0	2	6	1								1			1			2
+1	0	1	Actaea pachypoda	Ranunculaceae	0	1	4	3	3	0	2	3	1	1	1												2
+1	0	0	Actaea rubra	Ranunculaceae	0	1	4	3	3	0	2	3	1	1	1												2
+1	1	1	Adiantum pedatum	Pteridaceae	0	2	4	3	3	0	2	2	0	1	1									1			3
+1	0	0	Aegilops cylindrica	Poaceae	1	3	5	1	1	0	2	3	0						1						1		2
+1	0	1	Aegopodium podagraria	Apiaceae	1	1	3	3	3	0	2	1	1		1										1		2
+1	1	1	Aesculus glabra	Sapindaceae	0	5	1	3	1	0	2	5	1											1			1
+1	0	0	Agalinis paupercula	Orobanchaceae	0	1	5	1	1	0	2	1	1						1		1			1	1	1	5
+1	0	0	Agalinis purpurea	Orobanchaceae	0	9	5	1	1	0	2	1	1			1					1			1			3
+1	1	0	Agalinis tenuifolia	Orobanchaceae	0	9	5	1	1	0	2	1	1						1								1
+1	1	1	Agastache nepetoides	Lamiaceae	0	1	3	3	1	0	2	1	1		1												1
+1	1	0	Agastache scrophulariifolia	Lamiaceae	0	1	3	3	1	0	2	1	1		1												1
+1	1	1	Ageratina altissima	Asteraceae	0	1	3	3	1	0	2	2	1		1	1											2
+1	0	1	Agrimonia gryposepala	Rosaceae	0	1	3	3	2	0	2	4	1	1	1												2
+1	1	1	Agrimonia parviflora	Rosaceae	0	1	3	3	2	0	2	4	1	1	1												2
+1	1	1	Agrimonia pubescens	Rosaceae	0	1	3	3	1	0	2	4	1		1												1
+1	1	1	Agrimonia rostellata	Rosaceae	0	1	3	3	2	0	2	4	1	1	1												2
+1	1	0	Agrostemma githago	Caryophyllaceae	1	1	5	1	0	0	2	1	1												1	1	2
+1	1	1	Agrostis gigantea	Poaceae	1	3	4	3	3	0	2	4	0						1		1	1			1		4
+1	1	0	Agrostis hyemalis	Poaceae	0	3	3	3	1	0	2	1	0						1						1		2
+1	1	0	Agrostis perennans	Poaceae	0	3	3	3	1	0	2	1	0								1						1
+1	0	0	Agrostis scabra	Poaceae	0	3	3	3	1	0	2	1	0						1						1		2
+1	0	0	Agrostis stolonifera	Poaceae	1	3	3	3	2	0	2	4	0						1					1	1		3
+1	1	1	Ailanthus altissima	Simaroubaceae	1	5	1	3	1	0	2	2	1		1				1						1		3
+1	0	1	Ajuga reptans	Lamiaceae	1	1	3	3	2	0	2	4	1						1						1		2
+1	0	1	Alcea rosea	Malvaceae	1	1	3	3	1	0	2	1	1							1							1
+1	1	1	Alisma subcordatum	Alismataceae	0	1	6	3	3	0	1	6	1								1						1
+1	0	1	Alliaria petiolata	Brassicaceae	1	1	3	2	1	0	1	"1,2"	1		1												1
+1	0	1	Allium canadense	Alliaceae	0	1	4	3	3	0	2	1	1		1				1								2
+1	1	1	Allium cernuum	Alliaceae	0	1	4	3	3	0	2	1	1	1	1				1								3
+1	1	1	Allium tricoccum	Alliaceae	0	1	4	3	3	0	2	1	1	1	1												2
+1	1	1	Allium vineale	Alliaceae	1	1	4	3	3	0	1	1	1						1						1		2
+1	0	1	Alnus glutinosa	Betulaceae	1	5	1	3	1	0	2	2	0		1	1									1		3
+1	1	0	Alopecurus aequalis	Poaceae	0	3	5	3	1	0	2	4	0								1			1	1		3
+1	1	0	Alopecurus carolinianus	Poaceae	0	3	3	1	1	0	2	4	0								1						1
+1	1	1	Alopecurus pratensis	Poaceae	1	3	3	3	1	0	2	2	0						1						1		2
+1	0	0	Amaranthus albus	Amaranthaceae	1	1	5	1	1	0	2	2	0						1						1		2
+1	0	1	Amaranthus arenicola	Amaranthaceae	1	1	5	1	1	0	2	2	0						1								1
+1	1	0	Amaranthus blitoides	Amaranthaceae	1	1	5	1	1	0	2	2	0						1						1		2
+1	1	1	Amaranthus hybridus	Amaranthaceae	1	1	5	1	1	0	2	2	1						1						1		2
+1	1	0	Amaranthus retroflexus	Amaranthaceae	1	1	5	1	1	0	2	1	0						1						1		2
+1	1	0	Amaranthus spinosus	Amaranthaceae	1	1	5	1	1	1	2	2	0						1						1		2
+1	1	1	Amaranthus tuberculatus	Amaranthaceae	0	1	6	1	1	0	2	6	0								1						1
+1	1	1	Ambrosia artemisiifolia	Asteraceae	0	1	5	1	1	0	2	4	1						1						1		2
+1	1	1	Ambrosia trifida	Asteraceae	0	1	5	1	1	0	2	4	0						1						1		2
+1	0	1	Amorpha fruticosa	Fabaceae	0	4	1	3	1	0	2	1	1		1									1			2
+1	0	1	Amphicarpaea bracteata	Fabaceae	0	8	5	"1,3"	1	0	2	4	1	1	1	1											3
+1	1	0	Andropogon gerardii	Poaceae	0	3	4	3	3	0	2	2	0						1								1
+1	1	0	Andropogon virginicus	Poaceae	1	3	3	3	1	0	2	2	0		1				1								2
+1	1	1	Anemone canadensis	Ranunculaceae	0	1	4	3	3	0	2	1	1						1								1
+1	1	1	Anemone virginiana	Ranunculaceae	0	1	3	3	1	0	2	1	1		1												1
+1	0	1	Angelica atropurpurea	Apiaceae	0	1	3	3	1	0	2	6	1		1						1						2
+1	1	1	Antennaria neglecta	Asteraceae	0	1	2	3	1	0	1	2	1		1				1								2
+1	0	0	Antennaria parlinii	Asteraceae	0	1	2	3	1	0	1	2	1		1				1								2
+1	1	0	Antennaria plantaginifolia	Asteraceae	0	1	2	3	1	0	1	2	1		1				1								2
+1	1	1	Anthemis arvensis	Asteraceae	1	1	3	1	1	0	2	1	1						1						1		2
+1	1	0	Anthemis cotula	Asteraceae	1	1	3	1	1	0	2	1	1						1						1		2
+1	0	1	Apios americana	Fabaceae	0	8	4	3	3	0	2	3	1	1	1												2
+1	0	1	Aplectrum hyemale	Orchidaceae	0	1	4	3	3	0	2	2	1	1	1												2
+1	0	1	Apocynum androsaemifolium	Apocynaceae	0	1	3	3	1	0	2	2	1	1	1				1						1		4
+1	1	1	Apocynum cannabinum	Apocynaceae	0	1	3	3	1	0	2	2	1			1			1								2
+1	1	0	Aquilegia canadensis	Ranunculaceae	0	1	3	3	1	0	2	1	1		1		1										2
+1	0	1	Arabis hirsuta	Brassicaceae	0	1	3	"1,2,3"	1	0	2	2	1					1						1			2
+1	1	1	Arabis laevigata	Brassicaceae	0	1	3	2	1	0	2	2	1	1	1												2
+1	0	0	Arabis shortii	Brassicaceae	0	1	3	"2,3"	1	0	2	1	1	1	1												2
+1	0	1	Aralia hispida	Araliaceae	0	4	1	3	3	1	2	3	1	1	1												2
+1	0	0	Aralia racemosa	Araliaceae	0	1	3	3	2	0	2	3	1	1	1												2
+1	0	1	Arailia spinosa	Araliaceae	0	"4,5"	1	3	1	1	2	3	1		1						1						2
+1	1	1	Arctium minus	Asteraceae	1	1	3	2	1	1	1	4	1						1						1		2
+1	1	1	Arenaria serpyllifolia	Caryophyllaceae	1	1	5	1	1	0	2	1	1	1					1	1				1	1		5
+1	1	1	Arisaema dracontium	Araceae	0	1	4	3	3	0	2	3	1	1	1												2
+1	1	1	Arisaema triphyllum	Araceae	0	1	4	3	3	0	2	3	1	1	1						1						3
+1	1	0	Aristida longespica	Poaceae	0	3	5	1	1	0	2	3	0						1								1
+1	1	0	Aristida oligantha	Poaceae	1	3	5	1	1	0	2	3	0						1								1
+1	1	1	Aristolochia serpentaria	Aristolochiaceae	0	1	4	3	3	0	2	1	1	1	1												2
+1	0	0	Aristolochia tomentosa	Aristolochiaceae	0	8	?	3	2	0	2	1	1		1												1
+1	0	0	Armoracia rusticana	Brassicaceae	1	1	3	3	1	0	2	"1,2"	1						1						1		2
+1	1	1	Arnoglossum atriplicifolium	Asteraceae	0	1	3	3	1	0	2	2	1		1												1
+1	0	0	Arnoglossum plantagineum	Asteraceae	0	1	3	3	1	0	2	2	1					1			1						2
+1	1	1	Arnoglossum reniforme	Asteraceae	0	1	"3,5"	3	1	0	2	"1, ?"	1		1												1
+1	1	0	Arrhenatherum elatius	Poaceae	1	3	3	3	1	0	2	1	0						1						1		2
+1	1	1	Artemisia annua	Asteraceae	1	1	5	1	1	0	2	2	1						1						1		2
+1	0	0	Artemisia biennis	Asteraceae	1	1	5	"1,2"	1	0	2	1	0						1					1	1		3
+1	0	1	Artemisia vulgaris	Asteraceae	1	1	3	3	3	0	2	1	0												1	1	2
+1	1	1	Asarum canadense	Aristolochiaceae	0	1	3	3	3	0	2	4	1	1	1												2
+1	1	0	Asclepias exaltata	Apocynaceae	0	1	4	3	3	0	2	2	1		1												1
+1	0	0	Asclepias hirtella	Apocynaceae	0	1	3	3	1	0	2	2	1					1									1
+1	1	1	Asclepias incarnata	Apocynaceae	0	1	3	3	1	0	2	2	1						1		1						2
+1	0	0	Asclepias quadrifolia	Apocynaceae	0	1	3	3	2	0	2	2	1		1												1
+1	0	0	Asclepias sullivantii	Apocynaceae	0	1	3	3	1	0	2	2	1					1									1
+1	1	1	Asclepias syriaca	Apocynaceae	0	1	4	3	3	0	2	2	1						1						1		2
+1	0	1	Asclepias tuberosa	Apocynaceae	0	1	4	3	3	0	2	2	1		1				1								2
+1	1	1	Asclepias verticillata	Apocynaceae	0	1	3	3	1	0	2	2	1		1				1						1		3
+1	1	1	Asimina triloba	Annonaceae	0	"4,5"	1	3	3	0	2	3	1	1	1												2
+1	1	1	Asparagus officinalis	Asparagaceae	1	1	4	3	3	0	2	3	1						1			1			1		3
+1	1	1	Asplenium platyneuron	Aspleniaceae	0	2	4	3	3	0	2	2	0		1	1											2
+1	0	0	Asplenium rhizophyllum	Aspleniaceae	0	2	4	3	3	0	2	2	0		1	1											2
+1	0	0	Athyrium filix-femina	Dryopteridaceae	0	2	4	3	3	0	2	2	0		1				1					1			3
+1	1	0	Atriplex patula	Amaranthaceae	0	1	5	1	1	0	2	6	1						1	1		1			1		4
+1	0	0	Atriplex prostrata	Amaranthaceae	1	1	5	1	1	0	2	6	1						1	1	1	1					4
+1	0	0	Azolla caroliniana	Azollaceae	0	10	7	1	1	0	2	6	0								1						1
+1	0	0	Baptisia alba	Fabaceae	0	1	4	3	3	0	2	1	1		1												1
+1	0	1	Barbarea verna	Brassicaceae	1	1	3	"2,3"	1	0	2	1	1						1						1		2
+1	1	1	Barbarea vulgaris	Brassicaceae	1	1	3	2	1	0	?	1	1						1		1				1		3
+1	0	0	Bartonia paniculata	Gentianaceae	0	1	3	"1,2"	1	0	?	1	1								1						1
+1	0	0	Belamcanda chinensis	Iridaceae	1	1	4	3	3	0	2	1	1												1		1
+1	0	1	Berberis thunbergii	Berberidaceae	1	4	1	3	1	1	2	3	1		1	1											2
+1	0	0	Betula nigra	Betulaceae	0	5	1	3	1	0	2	2	0		1									1			2
+1	0	1	Betula papyrifera	Betulaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	0	0	Bidens aristosa	Asteraceae	0	1	5	"1,2"	1	0	"1,2"	4	1		1						1						2
+1	1	1	Bidens bipinnata	Asteraceae	0	1	5	1	1	0	2	4	1						1						1		2
+1	1	1	Bidens cernua	Asteraceae	0	1	5	1	1	0	2	4	1						1		1						2
+1	0	0	Bidens connata	Asteraceae	0	1	5	1	1	0	2	4	1								1				1		2
+1	1	1	Bidens coronata	Asteraceae	0	1	5	"1,2"	1	0	2	4	1								1						1
+1	1	1	Bidens frondosa	Asteraceae	0	1	5	1	1	0	2	4	1						1						1		2
+1	0	0	Bidens tripartita	Asteraceae	1	1	5	1	1	0	2	4	1						1						1		2
+1	1	1	Bidens vulgata	Asteraceae	0	1	5	1	1	0	2	4	1						1						1		2
+1	0	1	Blephilia ciliata	Lamiaceae	0	1	3	3	2	0	2	"1,2"	1	1	1												2
+1	1	1	Blephilia hirsuta	Lamiaceae	0	1	3	3	2	0	2	"1,2"	1	1	1												2
+1	1	1	Boehmeria cylindrica	Urticaceae	0	1	4	3	3	0	2	1	"0,1"	1	1												2
+1	0	0	Boltonia asteroides	Asteraceae	0	1	3	3	3	0	2	6	1								1						1
+1	0	1	Botrychium dissectum	Ophioglossaceae	0	2	3	3	1	0	2	2	0			1			1								2
+1	1	1	Botrychium virginianum	Ophioglossaceae	0	2	3	3	1	0	2	2	0		1				1								2
+1	1	1	Brachyelytrum erectum	Poaceae	0	3	3	3	2	0	2	1	0	1	1												2
+1	0	0	Brassica juncea	Brassicaceae	1	1	5	"1,3"	1	0	2	1	1						1						1		2
+1	1	1	Brassica nigra	Brassicaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	1	Brassica rapa	Brassicaceae	1	1	5	"1,2"	1	0	2	1	1						1						1		2
+1	1	0	Bromus arvensis	Poaceae	1	3	5	1	1	0	2	4	0					1							1	1	3
+1	1	1	Bromus inermis	Poaceae	1	3	4	3	3	0	2	2	0						1						1		2
+1	0	0	Bromus kalmii	Poaceae	0	3	3	3	1	0	2	2	0	1	1				1								3
+1	1	0	Bromus latiglumis	Poaceae	0	3	3	3	1	0	2	2	0	1	1												2
+1	1	0	Bromus racemosus	Poaceae	1	3	5	1	1	0	2	2	0						1						1		2
+1	1	0	Bromus secalinus	Poaceae	1	3	5	1	1	0	2	"2,3"	0						1						1		2
+1	1	1	Bromus tectorum	Poaceae	1	3	5	1	1	0	2	3	0						1						1		2
+1	0	1	Buglossoides arvensis	Boraginaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	0	Calamagrostis canadensis	Poaceae	0	3	3	3	3	0	2	2	0						1		1						2
+1	0	0	Calopogon tuberosus	Orchidaceae	0	1	4	3	3	0	2	2	1		1						1						2
+1	1	1	Caltha palustris	Ranunculaceae	0	1	3	3	1	0	2	1	1		1						1						2
+1	0	1	Calystegia hederacea	Convolvulaceae	1	8	3	3	3	0	2	1	1					1	1						1	1	4
+1	0	1	Calystegia pellita	Convolvulaceae	1	8	3	3	3	0	2	1	1						1						1	1	3
+1	1	1	Calystegia sepium	Convolvulaceae	0	8	3	3	3	0	2	1	1	1		1			1		1	1		1			6
+1	0	1	Calystegia silvatica	Convolvulaceae	0	"1, 8"	"1, ?"	3	"                      1,2 "	0	2	"1, ?"	1	1											1	1	3
+1	1	1	Camassia scilloides	Agavaceae	0	1	4	3	3	0	2	1	1		1			1									2
+1	1	0	Camelina microcarpa	Brassicaceae	1	1	5	"1,2"	1	0	2	1	1						1						1		2
+1	1	1	Campanula americana	Campanulaceae	0	1	3	3	1	0	2	1	1		1												1
+1	0	0	Campanula aparinoides	Campanulaceae	0	1	3	3	2	0	2	1	1						1		1						2
+1	1	1	Campsis radicans	Bignoniaceae	1	8	1	3	1	0	2	2	1		1	1									1		3
+1	1	0	Cannabis sativa	Cannabaceae	1	1	5	1	1	0	2	1	0						1						1		2
+1	1	1	Capsella bursa-pastoris	Brassicaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	1	Cardamine bulbosa	Brassicaceae	0	1	4	3	3	0	2	1	1	1	1						1						3
+1	1	1	Cardamine concatenata	Brassicaceae	0	1	4	3	3	0	2	1	1	1	1												2
+1	1	1	Cardamine douglassii	Brassicaceae	0	1	4	3	3	0	2	1	1	1	1												2
+1	0	1	Cardamine hirsuta	Brassicaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	0	Cardamine pensylvanica	Brassicaceae	0	1	3	"1,2,3"	1	0	2	1	1		1						1						2
+1	1	0	Cardaria draba	Brassicaceae	1	1	3	3	3	0	2	1	1						1						1	1	3
+1	1	1	Carduus nutans	Asteraceae	1	1	5	"2,3"	1	1	2	4	1						1						1		2
+1	1	0	Carex albicans	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1												1
+1	1	0	Carex albursina	Cyperaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	1	1	Carex amphibola	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0	1	1				1								3
+1	0	0	Carex atherodes	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0								1						1
+1	0	0	Carex atlantica	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0	1	1						1						3
+1	0	0	Carex bicknellii	Cyperaceae	0	3	4	3	3	0	2	2	0		1				1								2
+1	1	1	Carex blanda	Cyperaceae	0	3	3	3	1	0	3	2	0		1												1
+1	1	0	Carex brevior	Cyperaceae	0	3	3	3	1	0	2	2	0						1								1
+1	1	0	Carex bromoides	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0	1	1						1						3
+1	0	0	Carex buxbaumii	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0								1						1
+1	1	0	Carex careyana	Cyperaceae	0	3	3	3	1	0	2	1	0		1												1
+1	1	1	Carex cephalophora	Cyperaceae	0	3	4	3	3	0	2	2	0	1	1												2
+1	1	1	Carex communis	Cyperaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	0	0	Carex comosa	Cyperaceae	0	3	3	3	3	0	2	"1,2"	0		1						1			1			3
+1	1	1	Carex conjuncta	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1												1
+1	1	0	Carex crinita	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1						1						2
+1	1	1	Carex cristatella	Cyperaceae	0	3	3	3	1	0	2	2	0		1						1						2
+1	1	1	Carex davisii	Cyperaceae	0	3	4	3	3	0	2	6	0	1	1												2
+1	0	0	Carex digitalis	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1												1
+1	0	0	Carex echinata	Cyperaceae	0	3	3	3	3	0	2	"1,2"	0	1	1				1		1			1			5
+1	1	1	Carex emoryi	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0											1			1
+1	1	0	Carex festucacea	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1						1						2
+1	1	1	Carex frankii	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0		1												1
+1	1	0	Carex gracilescens	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1										1		2
+1	0	0	Carex gracillima	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0	1	1												2
+1	1	1	Carex granularis	Cyperaceae	0	3	4	3	3	0	2	2	0								1						1
+1	1	1	Carex grayi	Cyperaceae	0	3	3	3	2	0	2	"1,2"	0		1												1
+1	0	0	Carex grisea	Cyperaceae	0	3	4	3	1	0	2	"1,2"	0	1	1												2
+1	0	0	Carex hirsutella	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0		1				1								2
+1	1	0	Carex hirtifolia	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0	1	1												2
+1	1	0	Carex hitchcockiana	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0	1	1												2
+1	1	0	Carex hyalinolepis	Cyperaceae	0	3	3	3	3	0	2	1	0											1			1
+1	1	1	Carex hystericina	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0		1						1			1			3
+1	0	0	Carex intumescens	Cyperaceae	0	3	3	3	1	0	2	6	0		1												1
+1	1	1	Carex jamesii	Cyperaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	0	1	Carex lacustris	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0		1						1						2
+1	1	1	Carex laevivaginata	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1												1
+1	0	0	Carex laxiculmis	Cyperaceae	0	3	3	3	1	0	3	1	0	1	1												2
+1	1	1	Carex laxiflora	Cyperaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	1	1	Carex leavenworthii	Cyperaceae	0	3	3	3	3	0	2	"1,2"	0		1				1						1		3
+1	1	0	Carex leptalea	Cyperaceae	0	3	3	3	3	0	2	"1,2"	0								1						1
+1	1	0	Carex lupuliformis	Cyperaceae	0	3	4	3	3	0	2	6	0								1			1			2
+1	1	0	Carex lupulina	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0		1						1						2
+1	0	1	Carex lurida	Cyperaceae	0	3	3	3	1	0	2	2	0		1												1
+1	0	0	Carex meadii	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0						1		1						2
+1	1	1	Carex molesta	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1				1								2
+1	1	0	Carex muskingumensis	Cyperaceae	0	3	3	3	1	0	2	1	0					1						1			2
+1	1	1	Carex normalis	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1				1								2
+1	1	0	Carex oligocarpa	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0	1	1												2
+1	0	0	Carex pellita	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0								1						1
+1	1	0	Carex pensylvanica	Cyperaceae	0	3	4	3	3	0	2	1	0	1	1												2
+1	0	0	Carex prairea	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0						1		1						2
+1	0	1	Carex radiata	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1						1						2
+1	1	0	Carex rosea	Cyperaceae	0	3	3	3	3	0	2	1	0	1	1												2
+1	0	0	Carex sartwellii	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0	1							1						2
+1	0	0	Carex scoparia	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0								1			1			2
+1	1	1	Carex shortiana	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1						1						2
+1	1	1	Carex sparganioides	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0		1	1											2
+1	1	0	Carex squarrosa	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1	1											2
+1	0	0	Carex sterilis	Cyperaceae	0	3	3	3	1	0	2	6	0								1						1
+1	1	1	Carex stipata	Cyperaceae	0	3	3	3	1	0	2	6	0								1						1
+1	0	0	Carex stricta	Cyperaceae	0	3	4	3	3	0	2	6	0								1						1
+1	0	1	Carex suberecta	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1						1			1			3
+1	1	0	Carex swanii	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1				1								2
+1	0	0	Carex tenera	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0			1					1						2
+1	1	1	Carex tribuloides	Cyperaceae	0	3	3	3	1	0	2	2	0		1						1						2
+1	0	1	Carex trichocarpa	Cyperaceae	0	3	4	3	3	0	2	2	0								1						1
+1	0	0	Carex umbellata	Cyperaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	1	0	Carex utriculata	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0								1						1
+1	1	1	Carex vulpinoidea	Cyperaceae	0	3	4	3	3	0	2	2	0								1						1
+1	0	0	Carex willdenowii	Cyperaceae	0	3	3	3	1	0	2	"1,2"	0		1												1
+1	0	0	Carex woodii	Cyperaceae	0	3	4	3	3	0	2	2	0		1												1
+1	1	1	Carpinus caroliniana	Betulaceae	0	5	1	3	1	0	2	2	0		1						1						2
+1	1	1	Carya cordiformis	Juglandaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	0	1	Carya glabra	Juglandaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	1	1	Carya laciniosa	Juglandaceae	0	5	1	3	1	0	2	5	0											1			1
+1	1	1	Carya ovata	Juglandaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	0	1	Carya tomentosa	Juglandaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	0	1	Catalpa bignonioides	Bignoniaceae	1	5	1	3	1	0	2	2	1		1										1		2
+1	0	1	Catalpa speciosa	Bignoniaceae	1	5	1	3	1	0	2	2	1											1			1
+1	1	1	Caulophyllum thalictroides	Berberidaceae	0	1	4	3	3	0	2	3	1	1	1												2
+1	0	0	Ceanothus americanus	Rhamnaceae	0	4	1	3	1	0	2	3	1		1	1			1								3
+1	0	1	Celastrus orbiculatus	Celastraceae	1	8	1	3	1	0	2	3	1	1	1	1											3
+1	1	1	Celastrus scandens	Celastraceae	0	8	1	3	1	0	2	3	1			1											1
+1	1	1	Celtis occidentalis	Cannabaceae	0	5	1	3	1	0	2	3	0											1			1
+1	0	0	Cenchrus longispinus	Poaceae	0	3	5	1	1	0	2	4	0						1						1		2
+1	1	0	Cenchrus spinifex	Poaceae	0	3	3	"1,3"	1	0	2	4	0												1		1
+1	0	1	Centaurea stoebe	Asteraceae	1	1	3	"2,3"	1	0	2	4	1						1						1		2
+1	1	1	Cephalanthus occidentalis	Rubiaceae	0	4	1	3	1	0	2	1	1								1			1			2
+1	1	1	Cerastium fontanum	Caryophyllaceae	1	1	5	"2,3"	2	0	2	1	1	1					1						1		3
+1	1	0	Cerastium nutans	Caryophyllaceae	0	1	5	"1,3"	1	0	2	1	1			1			1								2
+1	0	0	Ceratophyllum demersum	Ceratophyllaceae	0	10	7	3	2	0	2	6	0								1			1	1		3
+1	1	1	Cercis canadensis	Fabaceae	0	5	1	3	1	0	2	2	1	1	1												2
+1	1	0	Chaenorhinum minus	Plantaginaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	0	Chaerophyllum procumbens	Apiaceae	0	1	5	1	1	0	2	1	1	1	1												2
+1	1	1	Chaerophyllum tainturieri	Apiaceae	0	1	5	1	1	0	2	"1,2"	"0,1"			1		1						1			3
+1	0	0	Chamaecrista fasciculata	Fabaceae	0	1	5	1	1	0	2	3	1			1			1						1		3
+1	1	0	Euphorbia maculata	Euphorbiaceae	0	1	5	1	1	0	2	4	1		1				1						1		3
+1	1	0	Chasmanthium latifolium	Poaceae	1	3	4	3	3	0	2	1	0	1	1									1			3
+1	0	0	Chelidonium majus	Papaveraceae	1	1	3	2	1	0	2	4	1						1						1		2
+1	1	0	Chelone glabra	Plantaginaceae	0	1	3	3	1	0	2	1	1	1	1												2
+1	1	1	Chelone obliqua	Plantaginaceae	0	1	3	3	1	0	2	1	1	1	1												2
+1	0	1	Chenopodium album	Amaranthaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	0	Chenopodium glaucum	Amaranthaceae	1	1	5	1	1	0	2	1	1						1	1		1			1		4
+1	1	0	Chenopodium murale	Amaranthaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	0	Chenopodium simplex	Amaranthaceae	0	1	5	1	1	0	2	1	1	1	1										1		3
+1	1	0	Chenopodium standleyanum	Amaranthaceae	0	1	5	1	1	0	2	1	1		1												1
+1	1	0	Chenopodium urbicum	Amaranthaceae	1	1	5	1	1	0	2	1	1			1				1							2
+1	1	1	Cichorium intybus	Asteraceae	1	1	5	"2,3"	1	0	2	2	1						1						1		2
+1	1	1	Cicuta maculata	Apiaceae	0	1	3	"2,3"	1	0	2	6	1								1						1
+1	1	1	Cinna arundinacea	Poaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	1	1	Circaea lutetiana	Onagraceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	1	0	Cirsium altissimum	Asteraceae	0	1	3	2	1	1	2	2	1		1				1					1			3
+1	1	1	Cirsium arvense	Asteraceae	1	1	4	3	3	1	2	2	1						1						1		2
+1	1	1	Cirsium discolor	Asteraceae	0	1	3	"2,3"	1	1	2	2	1		1				1					1			3
+1	1	0	Cirsium muticum	Asteraceae	0	1	3	2	1	1	2	2	1			1						1					2
+1	0	1	Cirsium vulgare	Asteraceae	1	1	5	2	1	1	2	2	1						1						1		2
+1	1	1	Claytonia virginica	Montiaceae	0	1	4	3	3	0	2	4	1	1	1				1								3
+1	1	0	Clematis viorna	Ranunculaceae	1	8	3	3	1	0	2	1	1		1									1			2
+1	1	1	Clematis virginiana	Ranunculaceae	0	8	1	3	1	0	2	2	1		1	1			1								3
+1	1	0	Collinsia verna	Plantaginaceae	0	1	3	1	1	0	2	1	1		1									1			2
+1	1	1	Collinsonia canadensis	Lamiaceae	0	1	4	3	3	0	2	2	1	1	1												2
+1	0	0	Comandra umbellata	Santalaceae	0	9	4	3	3	0	2	3	1		1				1				1				3
+1	1	0	Comarum palustre	Rosaceae	0	1	4	3	3	0	2	1	1								1			1			2
+1	1	1	Commelina communis	Commelinaceae	1	1	5	1	3	0	2	1	1						1						1		2
+1	0	1	Conium maculatum	Apiaceae	1	1	3	2	1	0	2	6	1						1					1	1		3
+1	1	1	Conoclinium coelestinum	Asteraceae	1	1	4	3	3	0	2	2	1		1				1					1			3
+1	1	1	Conopholis americana	Orobanchaceae	0	9	4	3	3	0	2	1	1	1	1												2
+1	0	0	Conringia orientalis	Brassicaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	1	Convallaria majalis	Ruscaceae	1	1	4	3	3	0	2	3	1						1						1		2
+1	1	1	Convolvulus arvensis	Convolvulaceae	1	8	4	3	3	0	2	1	1						1						1		2
+1	0	1	Conyza canadensis	Asteraceae	0	1	5	"1,2"	1	0	2	2	1						1						1		2
+1	0	0	Corallorhiza odontorhiza	Orchidaceae	0	9	4	3	3	0	2	2	1		1												1
+1	0	1	Coreopsis lanceolata	Asteraceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	0	0	Coreopsis tripteris	Asteraceae	0	1	3	3	3	0	2	1	1		1												1
+1	1	0	Cornus alternifolia	Cornaceae	0	4	1	3	1	0	2	3	1	1	1	1											3
+1	1	0	Cornus amomum	Cornaceae	0	4	1	3	1	0	2	3	1	1	1									1			3
+1	1	1	Cornus drummondii	Cornaceae	0	4	1	3	1	0	2	3	1		1									1			2
+1	1	1	Cornus florida	Cornaceae	0	5	1	3	1	0	2	3	1	1	1												2
+1	0	1	Cornus obliqua	Cornaceae	0	4	1	3	1	0	2	3	1	1	1												2
+1	0	1	Cornus racemosa	Cornaceae	0	4	1	3	1	0	2	3	1		1	1		1						1			4
+1	0	1	Cornus sericea	Cornaceae	0	4	1	3	1	0	2	3	1	1	1	1			1					1			5
+1	1	1	Corydalis flavula	Papaveraceae	0	1	5	1	1	0	2	4	1		1									1			2
+1	1	0	Corylus americana	Betulaceae	0	4	1	3	1	0	2	3	0		1	1											2
+1	0	1	Cotinus coggygria	Anacardiaceae	1	"4,5"	1	3	1	0	2	2	1			1									1		2
+1	1	0	Crataegus calpodendron	Rosaceae	0	4	1	3	1	1	2	3	1		1	1			1								3
+1	1	0	Crataegus crus-galli	Rosaceae	0	4	1	3	1	1	2	3	1		1	1			1								3
+1	0	0	Crataegus disperma	Rosaceae	0	4	1	3	1	1	2	3	1		1	1			1								3
+1	0	0	Crataegus grandis	Rosaceae	0	4	1	3	1	1	2	3	1		1	1			1								3
+1	0	0	Crataegus macrosperma	Rosaceae	0	4	1	3	1	1	2	3	1		1	1			1								3
+1	0	0	Crataegus margarettiae	Rosaceae	0	4	1	3	1	1	2	3	1		1	1		1									3
+1	1	1	Crataegus mollis	Rosaceae	0	5	1	3	1	1	2	3	1		1	1			1								3
+1	0	0	Crataegus pruinosa	Rosaceae	0	4	1	3	1	1	2	3	1		1	1			1								3
+1	1	1	Crataegus punctata	Rosaceae	0	4	1	3	1	1	2	3	1		1	1			1								3
+1	0	0	Crataegus succulenta	Rosaceae	0	5	1	3	1	1	2	3	1		1	1			1								3
+1	0	0	Croton glandulosus	Euphorbiaceae	0	1	5	1	1	0	2	1	1												1	1	2
+1	1	0	Croton monanthogynus	Euphorbiaceae	0	1	5	1	1	0	2	1	1			1		1									2
+1	1	1	Cryptotaenia canadensis	Apiaceae	0	1	3	3	1	0	2	1	1	1	1												2
+1	1	1	Cuscuta gronovii	Convolvulaceae	0	9	5	3	1	0	2	1	1		1	1											2
+1	0	0	Cuscuta polygonorum	Convolvulaceae	0	9	5	3	1	0	2	1	1			1			1								2
+1	1	0	Cycloloma atriplicifolium	Amaranthaceae	0	1	5	1	1	0	2	2	0						1								1
+1	1	1	Cynanchum laeve	Apocynaceae	1	8	3	3	1	0	2	2	1		1				1								2
+1	1	0	Cynodon dactylon	Poaceae	1	3	4	3	3	0	2	4	0						1					1	1		3
+1	1	0	Cynoglossum officinale	Boraginaceae	1	1	3	2	1	0	2	1	1		1				1						1		3
+1	1	1	Cyperus bipartitus	Cyperaceae	0	3	5	1	1	0	2	"1,2"	0								1			1			2
+1	1	0	Cyperus erythrorhizos	Cyperaceae	0	3	3	1	1	0	2	1	0								1			1			2
+1	1	1	Cyperus esculentus	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0						1						1		2
+1	0	0	Cyperus lupulinus	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0		1				1								2
+1	0	1	Cyperus odoratus	Cyperaceae	0	3	5	"1,3"	3	0	2	3	0						1		1		1		1		4
+1	1	0	Cyperus squarrosus	Cyperaceae	0	3	5	1	1	0	2	2	0								1						1
+1	0	1	Cyperus strigosus	Cyperaceae	0	3	4	3	3	0	2	"1,2"	0						1		1			1			3
+1	0	0	Cypripedium reginae	Orchidaceae	0	1	3	3	1	0	2	2	1	1	1						1						3
+1	1	0	Cystopteris bulbifera	Dryopteridaceae	0	2	4	3	3	0	2	2	0		1												1
+1	1	1	Cystopteris protrusa	Dryopteridaceae	0	2	4	3	3	0	2	2	0		1												1
+1	0	0	Cystopteris tennesseensis	Dryopteridaceae	0	2	3	3	1	0	2	2	0		1												1
+1	1	1	Dactylis glomerata	Poaceae	1	3	3	3	1	0	2	2	0						1						1		2
+1	0	0	Dalea purpurea	Fabaceae	0	1	3	3	1	0	2	1	1					1									1
+1	1	1	Danthonia spicata	Poaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	0	0	Dasiphora fruticosa	Rosaceae	0	4	1	3	1	0	2	1	1								1						1
+1	1	1	Dasistoma macrophylla	Scrophulariaceae	0	1	3	1	1	0	2	1	1	1	1												2
+1	1	1	Datura stramonium	Solanaceae	1	1	5	1	1	0	2	3	1						1						1		2
+1	1	1	Daucus carota	Apiaceae	1	1	3	2	1	0	2	4	1						1						1		2
+1	1	0	Decodon verticillatus	Lythraceae	0	1	2	3	1	0	2	1	1		1						1						2
+1	1	1	Delphinium tricorne	Ranunculaceae	0	1	3	3	0	0	2	1	1	1	1												2
+1	1	1	Deparia acrostichoides	Dryopteridaceae	0	2	4	3	3	0	?	2	0		1	1											2
+1	1	0	Deschampsia cespitosa	Poaceae	0	3	3	3	1	0	2	4	0	1	1				1		1			1			5
+1	0	1	Descurainia pinnata	Brassicaceae	1	1	5	"1,2,3"	1	0	2	1	1		1	1	1		1	1		1	1	1	1		9
+1	0	1	Desmanthus illinoensis	Fabaceae	0	1	3	3	1	0	2	1	1					1						1			2
+1	1	1	Desmodium canadense	Fabaceae	0	1	3	3	1	0	2	4	1			1								1			2
+1	1	1	Desmodium canescens	Fabaceae	0	1	3	3	1	0	2	4	1		1				1								2
+1	0	1	Desmodium glabellum	Fabaceae	0	1	3	3	1	0	2	4	1		1												1
+1	0	1	Desmodium glutinosum	Fabaceae	0	1	3	3	1	0	2	4	1	1	1												2
+1	1	0	Desmodium nudiflorum	Fabaceae	0	1	3	3	1	0	2	4	1	1	1												2
+1	1	1	Desmodium paniculatum	Fabaceae	0	1	3	3	1	0	2	4	1		1												1
+1	1	0	Desmodium pauciflorum	Fabaceae	0	1	3	3	1	0	2	4	1	1	1												2
+1	0	1	Desmodium perplexum	Fabaceae	0	1	3	3	1	0	2	4	1		1												1
+1	0	1	Dianthus armeria	Caryophyllaceae	1	1	5	"1,2"	1	0	2	1	1						1						1		2
+1	1	1	Diarrhena americana	Poaceae	0	3	4	3	3	0	2	1	0	1	1												2
+1	1	1	Dicentra canadensis	Papaveraceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	1	1	Dicentra cucullaria	Papaveraceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	1	0	Dichanthelium acuminatum	Poaceae	0	3	3	3	1	0	2	1	0		1						1						2
+1	1	1	Dichanthelium clandestinum	Poaceae	0	3	3	3	1	0	3	1	0		1												1
+1	0	0	Dichanthelium commutatum	Poaceae	0	3	3	3	1	0	2	1	0		1												1
+1	0	0	Dichanthelium latifolium	Poaceae	0	3	3	3	1	0	2	1	0		1												1
+1	1	0	Dichanthelium oligosanthes	Poaceae	0	3	3	3	1	0	2	1	0		1												1
+1	0	0	Digitaria cognata	Poaceae	0	3	4	3	3	0	?	1	0						1								1
+1	1	1	Digitaria ischaemum	Poaceae	1	3	5	1	1	0	2	4	0						1						1		2
+1	1	0	Digitaria sanguinalis	Poaceae	1	3	5	1	1	0	2	2	0						1						1		2
+1	0	0	Diodia teres	Rubiaceae	0	1	5	"1,3"	1	0	2	1	1						1						1		2
+1	0	1	Diospyros virginiana	Ebenaceae	0	5	1	3	1	0	2	3	1		1												1
+1	0	1	Dioscorea quaternata	Dioscoreaceae	0	1	4	3	3	0	2	1	1		1	1									1		3
+1	0	1	Dioscorea villosa	Dioscoreaceae	0	8	4	3	3	0	2	1	1		1	1			1								3
+1	1	1	Diplazium pycnocarpon	Dryopteridaceae	0	2	3	3	3	0	2	2	0	1	1												2
+1	0	1	Dipsacus fullonum	Dipsacaceae	1	1	3	2	1	1	2	4	1					1							1		2
+1	0	1	Dipsacus laciniatus	Dipsacaceae	1	1	3	2	1	1	2	4	1						1						1		2
+1	0	1	Dirca palustris	Thymelaeaceae	0	4	1	3	1	0	2	3	1	1	1												2
+1	1	1	Dodecatheon meadia	Primulaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	0	0	Doellingeria umbellata	Asteraceae	0	1	4	3	3	0	2	2	1		1				1								2
+1	0	1	Draba verna	Brassicaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	0	Drosera intermedia	Droseraceae	0	1	3	3	1	0	2	1	1								1						1
+1	0	0	Dryopteris carthusiana	Dryopteridaceae	0	2	4	3	3	0	2	2	0	1	1						1						3
+1	1	0	Dryopteris cristata	Dryopteridaceae	0	2	4	3	3	0	"1,2"	2	0		1						1						2
+1	0	1	Dryopteris marginalis	Dryopteridaceae	0	2	3	3	1	0	1	2	0	1	1												2
+1	0	1	Duchesnea indica	Rosaceae	1	1	3	3	2	0	2	4	1						1						1		2
+1	1	0	Dulichium arundinaceum	Cyperaceae	0	3	6	3	1	0	2	1	0	1	1						1						3
+1	0	0	Dysphania ambrosioides	Chenopodiaceae	1	1	5	"1,3"	1	0	2	1	0												1		1
+1	1	0	Dysphania botrys	Chenopodiaceae	1	1	5	1	1	0	2	1	0					1						1	1		3
+1	1	0	Chenopodium botrys	Amaranthaceae	1	1	5	1	1	0	2	1	1					1						1			2
+1	0	0	Dyssodia papposa	Asteraceae	1	1	5	1	1	0	2	4	1						1								1
+1	0	0	Echinacea purpurea	Asteraceae	0	1	4	3	3	0	2	3	1		1				1								2
+1	1	1	Echinochloa crus-galli	Poaceae	1	3	3	1	1	0	2	1	0													1	1
+1	1	0	Echinocystis lobata	Cucurbitaceae	0	8	5	1	1	0	2	1	1			1											1
+1	1	0	Echium vulgare	Boraginaceae	1	1	3	"1,2,3"	1	0	2	1	1						1						1		2
+1	0	1	Eclipta prostrata	Asteraceae	0	1	5	"1,2"	1	0	2	3	1											1	1		2
+1	0	1	Elaeagnus angustifolia	Elaeagnaceae	1	4	1	3	1	1	2	3	1		1	1									1		3
+1	0	1	Elaeagnus umbellata	Elaeagnaceae	1	4	1	3	1	0	2	3	1		1	1									1		3
+1	1	0	Eleocharis acicularis	Cyperaceae	0	3	4	"1,3"	3	0	2	o	0	1	1		1		1		1			1	1		7
+1	0	0	Eleocharis compressa	Cyperaceae	0	3	4	3	3	0	2	o	0								1			1			2
+1	1	0	Eleocharis erythropoda	Cyperaceae	0	3	6	3	3	0	2	1	0								1						1
+1	0	1	Eleocharis obtusa	Cyperaceae	0	3	5	"1,3"	1	0	2	1	0								1						1
+1	1	1	Eleocharis palustris	Cyperaceae	0	3	6	3	3	0	2	1	0								1						1
+1	0	0	Eleocharis tenuis	Cyperaceae	0	3	4	3	3	0	2	1	0								1						1
+1	1	0	Eleusine indica	Poaceae	1	3	5	1	1	0	2	2	0						1						1		2
+1	1	0	Ellisia nyctelea	Boraginaceae	0	1	5	1	1	0	2	1	1						1					1			2
+1	1	1	Elodea canadensis	Hydrocharitaceae	0	10	7	3	2	0	2	1	0								1						1
+1	0	0	Elodea nuttallii	Hydrocharitaceae	0	10	7	3	2	0	2	1	0								1						1
+1	1	1	Elymus canadensis	Poaceae	0	3	3	3	1	0	2	4	0						1					1			2
+1	1	1	Elymus hystrix	Poaceae	0	3	3	3	1	0	3	1	0		1												1
+1	1	1	Elymus repens	Poaceae	1	3	5	3	3	0	2	4	0						1						1		2
+1	1	1	Elymus riparius	Poaceae	0	3	3	3	1	0	2	4	0	1	1									1			3
+1	1	1	Elymus villosus	Poaceae	0	3	3	3	1	0	2	4	0	1	1									1			3
+1	1	1	Elymus virginicus	Poaceae	0	3	3	3	1	0	2	1	0	1	1				1								3
+1	1	1	Enemion biternatum	Ranunculaceae	0	1	3	3	2	0	2	1	1	1	1												2
+1	1	1	Epifagus virginiana	Orobanchaceae	0	9	4	1	3	0	2	1		1	1												2
+1	1	1	Epilobium coloratum	Onagraceae	0	1	3	3	1	0	2	2	1								1						1
+1	0	0	Epilobium strictum	Onagraceae	0	1	4	3	3	0	2	2	1		1						1						2
+1	1	1	Equisetum arvense	Equisetaceae	0	2	4	3	3	0	2	2	0		1				1					1	1		4
+1	1	1	Equisetum hyemale	Equisetaceae	0	2	4	3	3	0	1	2	0								1			1			2
+1	1	0	Equisetum laevigatum	Equisetaceae	0	2	4	3	3	0	2	2	0								1			1	1		3
+1	0	0	Eragrostis capillaris	Poaceae	0	3	5	1	1	0	2	1	0	1	1												2
+1	1	0	Eragrostis cilianensis	Poaceae	1	3	5	1	1	0	2	1	0						1						1		2
+1	1	1	Eragrostis frankii	Poaceae	0	3	5	1	1	0	2	1	0						1					1			2
+1	1	0	Eragrostis hypnoides	Poaceae	0	3	5	1	1	0	2	1	0								1			1			2
+1	1	1	Eragrostis pectinacea	Poaceae	0	3	5	"1,3"	1	0	2	1	0						1					1	1		3
+1	1	0	Eragrostis spectabilis	Poaceae	0	3	3	3	1	0	2	1	0		1				1								2
+1	1	1	Erechtites hieraciifolia	Asteraceae	0	1	5	1	1	0	2	2	1		1			1			1				1		4
+1	1	1	Erigenia bulbosa	Apiaceae	0	1	4	"1,3"	3	0	2	1	1	1	1												2
+1	1	1	Erigeron annuus	Asteraceae	0	1	5	1	1	0	2	2	1						1						1		2
+1	1	1	Erigeron philadelphicus	Asteraceae	0	1	5	"2,3"	2	0	2	2	1						1					1	1		3
+1	0	1	Erigeron pulchellus	Asteraceae	0	1	3	3	2	0	2	2	1		1									1			2
+1	0	0	Erigeron strigosus	Asteraceae	0	1	3	"1,2,3"	1	0	2	2	1						1						1		2
+1	0	0	Eriophorum virginicum	Cyperaceae	0	3	3	3	1	0	2	2	0		1	1											2
+1	0	0	Eriophorum viridicarinatum	Cyperaceae	0	3	3	3	1	0	2	2	0		1	1											2
+1	0	0	Eryngium yuccifolium	Apiaceae	0	1	4	3	3	0	2	1	1		1				1								2
+1	0	0	Erysimum cheiranthoides	Brassicaceae	1	1	5	"1,2"	1	0	2	1	1						1						1		2
+1	0	1	Erysimum repandum	Brassicaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	1	Erythronium albidum	Liliaceae	0	1	4	3	3	0	2	1	1		1												1
+1	1	1	Erythronium americanum	Liliaceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	0	1	Euonymus alatus	Celastraceae	1	4	1	3	1	0	2	3	1		1										1		2
+1	1	1	Euonymus atropurpureus	Celastraceae	0	4	1	3	1	0	2	3	1	1	1												2
+1	0	1	Euonymus fortunei	Celastraceae	1	8	1	3	1	0	1	3	1	1	1										1		3
+1	1	1	Euonymus obovatus	Celastraceae	0	4	1	3	2	0	2	3	1	1	1												2
+1	1	1	Eutrochium_fistulosum	Asteraceae	0	1	3	3	1	0	2	2	1		1									1			2
+1	0	1	Eupatorium album	Asteraceae	0	1	3	3	2	0	2	2	1		1												1
+1	1	1	Eupatorium altissimum	Asteraceae	0	1	4	3	3	0	2	2	1		1	1											2
+1	1	1	Eupatorium perfoliatum	Asteraceae	0	1	3	3	1	0	2	2	1								1						1
+1	1	1	Eupatorium serotinum	Asteraceae	0	1	3	3	1	0	2	2	1		1									1			2
+1	1	0	Euphorbia commutata	Euphorbiaceae	0	1	3	3	2	0	2	1	1		1												1
+1	0	0	Euphorbia corollata	Euphorbiaceae	0	1	4	3	3	0	2	4	1		1				1								2
+1	1	0	Euphorbia cyparissias	Euphorbiaceae	1	1	4	3	3	0	2	4	1						1						1		2
+1	0	0	Euphorbia davidii	Euphorbiaceae	1	1	5	1	1	0	2	1	1												1		1
+1	1	1	Euphorbia dentata	Euphorbiaceae	1	1	5	1	1	0	2	1	1						1								1
+1	1	1	Euphorbia esula	Euphorbiaceae	1	1	4	3	3	0	2	4	1						1						1		2
+1	1	0	Euphorbia marginata	Euphorbiaceae	1	1	5	1	1	0	2	1	1						1								1
+1	1	1	Euthamia graminifolia	Asteraceae	0	1	3	3	3	0	2	2	1						1								1
+1	0	0	Euthamia gymnospermoides	Asteraceae	0	1	3	3	3	0	2	2	1		1			1									2
+1	1	1	Eutrochium maculatum	Asteraceae	0	1	3	3	1	0	2	2	1					1			1						2
+1	1	1	Eutrochium purpureum	Asteraceae	0	1	3	3	1	0	2	2	1		1	1											2
+1	1	1	Fagus grandifolia	Fagaceae	0	5	1	3	3	0	2	1	0	1	1												2
+1	1	1	Festuca rubra	Poaceae	1	3	3	3	3	0	2	4	0	1					1	1					1		4
+1	1	1	Festuca subverticillata	Poaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	1	0	Filipendula rubra	Rosaceae	0	1	4	3	3	0	2	1	1		1				1								2
+1	1	0	Fimbristylis autumnalis	Cyperaceae	0	3	5	1	1	0	2	"1,2"	0								1						1
+1	1	1	Floerkea proserpinacoides	Limnanthaceae	0	1	5	1	1	0	2	1	1	1	1												2
+1	1	1	Fragaria virginiana	Rosaceae	0	1	3	3	2	0	2	4	1						1						1		2
+1	0	1	Frangula alnus	Rhamnaceae	1	4	1	3	1	0	2	3	1		1	1									1		3
+1	1	1	Fraxinus americana	Oleaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	1	1	Fraxinus nigra	Oleaceae	0	5	1	3	1	0	2	2	0	1	1						1						3
+1	1	1	Fraxinus pennsylvanica	Oleaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	1	1	Fraxinus profunda	Oleaceae	0	5	1	3	1	0	2	2	0	1	1									1			3
+1	1	1	Fraxinus quadrangulata	Oleaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	0	0	Froelichia gracilis	Amaranthaceae	1	1	5	1	1	0	2	4	0						1						1		2
+1	1	0	Galearis spectabilis	Orchidaceae	0	1	4	3	3	0	2	2	1	1	1												2
+1	1	1	Galinsoga quadriradiata	Asteraceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	1	Galium aparine	Rubiaceae	0	1	5	1	1	1	2	4	1	1	1				1						1		4
+1	0	1	Galium asprellum	Rubiaceae	0	1	3	3	1	1	2	1	1	1	1	1											3
+1	1	1	Galium circaezans	Rubiaceae	0	1	3	3	2	0	2	4	1	1	1	1											3
+1	1	1	Galium concinnum	Rubiaceae	0	1	3	3	1	1	2	1	1	1	1												2
+1	1	1	Galium obtusum	Rubiaceae	0	8	3	3	1	0	2	1	1								1						1
+1	1	1	Galium tinctorium	Rubiaceae	0	8	3	3	2	1	2	1	1								1						1
+1	1	1	Galium trifidum	Rubiaceae	0	8	3	3	2	1	2	1	1								1			1			2
+1	0	0	Galium triflorum	Rubiaceae	0	1	3	3	1	1	2	4	1	1	1												2
+1	0	0	Gamochaeta purpurea	Asteraceae	0	1	5	"1,2"	3	0	2	2	1						1						1		2
+1	1	1	Gaura biennis	Onagraceae	0	1	3	2	1	0	2	1	1					1							1		2
+1	1	0	Gaura mollis	Onagraceae	1	1	3	1	1	0	2	1	1	1	1			1		1			1	1			6
+1	1	0	Gentiana andrewsii	Gentianaceae	0	1	3	3	1	0	2	1	1		1				1		1						3
+1	0	0	Gentiana saponaria	Gentianaceae	0	1	3	3	2	0	2	1	1		1	1											2
+1	1	0	Gentianella quinquefolia	Gentianaceae	0	1	5	"1,2"	1	0	2	1	1		1				1		1						3
+1	0	0	Gentianopsis virgata	Gentianaceae	0	1	3	1	1	0	2	1	1					1			1			1			3
+1	1	1	Geranium carolinianum	Geraniaceae	0	1	5	"1,2"	1	0	2	1	1	1		1			1						1		4
+1	1	1	Geranium maculatum	Geraniaceae	0	1	4	3	3	0	2	1	1	1	1												2
+1	0	1	Geranium robertianum	Geraniaceae	1	1	5	"1,2"	1	0	2	1	1	1	1												2
+1	1	1	Geum canadense	Rosaceae	0	1	3	3	1	0	2	2	1	1	1												2
+1	1	1	Geum laciniatum	Rosaceae	0	1	3	3	1	0	2	2	1								1						1
+1	1	1	Geum vernum	Rosaceae	0	1	3	3	1	0	2	2	1	1	1												2
+1	0	1	Glechoma hederacea	Lamiaceae	1	1	3	3	2	0	2	4	1	1	1												2
+1	1	1	Gleditsia triacanthos	Fabaceae	0	5	1	3	1	1	2	1	1	1	1										1		3
+1	1	0	Glyceria septentrionalis	Poaceae	0	3	3	3	1	0	2	1	0								1						1
+1	1	1	Glyceria striata	Poaceae	0	3	3	3	1	0	2	1	0		1						1						2
+1	1	0	Gratiola neglecta	Plantaginaceae	0	1	5	1	1	0	2	1	1								1						1
+1	1	0	Grindelia squarrosa	Asteraceae	1	1	3	"1,2,3"	1	0	2	1	1						1						1		2
+1	1	1	Gymnocladus dioicus	Fabaceae	0	5	1	3	1	0	2	1	1	1	1												2
+1	1	1	Hackelia virginiana	Boraginaceae	0	1	3	"2,3"	1	0	2	4	1	1	1												2
+1	0	1	Hamamelis virginiana	Hamamelidaceae	0	4	1	3	1	0	2	1	1	1	1												2
+1	1	0	Hasteola suaveolens	Asteraceae	0	1	3	3	2	0	2	2	1											1			1
+1	1	0	Hedeoma pulegioides	Lamiaceae	0	1	5	1	1	0	2	1	1	1	1												2
+1	0	1	Hedera helix	Araliaceae	1	8	1	3	3	0	1	3	1		1										1		2
+1	1	1	Helenium autumnale	Asteraceae	0	1	3	3	1	0	2	4	1			1			1					1			3
+1	1	1	Helianthus annuus	Asteraceae	0	1	5	1	1	0	2	3	1			1			1					1	1		4
+1	1	1	Helianthus decapetalus	Asteraceae	0	1	4	3	3	0	2	3	1		1									1			2
+1	0	1	Helianthus divaricatus	Asteraceae	0	1	4	3	3	0	2	3	1		1	1											2
+1	1	0	Helianthus giganteus	Asteraceae	0	1	3	3	3	0	2	3	1								1						1
+1	1	0	Helianthus grosseserratus	Asteraceae	0	1	4	3	3	0	2	3	1						1		1			1			3
+1	0	1	Helianthus hirsutus	Asteraceae	0	1	4	3	3	0	2	3	1		1	1			1								3
+1	1	1	Helianthus microcephalus	Asteraceae	0	1	3	3	1	0	2	1	1		1	1											2
+1	1	0	Helianthus mollis	Asteraceae	0	1	4	3	3	0	2	3	1						1								1
+1	0	0	Helianthus pauciflorus	Asteraceae	0	1	4	3	3	0	2	3	1						1						1		2
+1	0	0	Helianthus petiolaris	Asteraceae	1	1	5	1	1	0	2	3	1						1						1		2
+1	0	1	Helianthus strumosus	Asteraceae	0	1	4	3	3	0	2	3	1		1	1			1								3
+1	1	1	Helianthus tuberosus	Asteraceae	0	1	4	3	3	0	2	3	1		1	1			1						1		4
+1	1	1	Heliopsis helianthoides	Asteraceae	0	1	4	3	3	0	2	1	1		1				1						1		3
+1	0	1	Hemerocallis fulva	Hemerocallidaceae	1	1	4	3	3	0	2	1	1						1						1		2
+1	1	0	Hepatica nobilis	Ranunculaceae	0	1	"3,5"	3	"                      1,3"	0	2	"?,1"	1	1	1												2
+1	1	0	Heracleum maximum	Apiaceae	0	1	4	3	3	0	2	6	1					1						1			2
+1	1	1	Hesperis matronalis	Brassicaceae	1	1	3	"2,3"	1	0	2	1	1		1									1			2
+1	1	1	Heuchera americana	Saxifragaceae	0	1	3	3	2	0	2	1	1	1	1												2
+1	0	1	Hibiscus laevis	Malvaceae	0	1	3	3	1	0	2	1	1								1						1
+1	0	1	Hibiscus moscheutos	Malvaceae	0	1	3	"1,3"	1	0	2	1	1								1	1					2
+1	1	1	Hibiscus trionum	Malvaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	1	Hordeum jubatum	Poaceae	0	3	3	3	1	0	2	1	0						1		1						2
+1	0	1	Hordeum pusillum	Poaceae	1	3	5	1	1	0	2	4	0						1			1		1	1		4
+1	0	1	Hosta ventricosa	Agavaceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	1	0	Houstonia longifolia	Rubiaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	0	0	Houstonia purpurea	Rubiaceae	0	1	3	3	1	0	2	1	1		1	1			1					1			4
+1	0	1	Humulus japonicus	Cannabaceae	1	8	5	"1,3"	3	1	2	2	1						1						1		2
+1	1	0	Humulus lupulus	Cannabaceae	0	8	4	3	3	1	2	2	1											1	1		2
+1	1	1	Hybanthus concolor	Violaceae	0	1	3	3	1	0	2	1	1	1	1												2
+1	1	1	Hydrangea arborescens	Hydrangeaceae	0	4	1	3	1	0	2	1	1		1	1											2
+1	0	1	Hydrangea paniculata	Hydrangeaceae	1	4	1	3	1	0	2	1	1			1			1						1		3
+1	1	1	Hydrastis canadensis	Ranunculaceae	0	1	4	3	3	0	2	3	1	1	1												2
+1	1	1	Hydrophyllum appendiculatum	Boraginaceae	0	1	3	2	3	0	3	1	1	1	1												2
+1	1	1	Hydrophyllum canadense	Boraginaceae	0	1	3	3	3	0	2	1	1	1	1												2
+1	1	1	Hydrophyllum macrophyllum	Boraginaceae	0	1	3	3	3	0	2	1	1		1												1
+1	1	1	Hydrophyllum virginianum	Boraginaceae	0	1	3	3	3	0	2	1	1	1	1												2
+1	0	0	Hypericum ascyron	Hypericaceae	0	1	3	3	2	0	2	1	1											1			1
+1	0	0	Hypericum boreale	Hypericaceae	0	1	5	3	1	0	2	1	1								1						1
+1	0	0	Hypericum canadense	Hypericaceae	0	1	5	1	1	0	2	1	1								1						1
+1	1	1	Hypericum mutilum	Hypericaceae	0	1	5	"1,3"	1	0	2	1	1		1						1						2
+1	1	1	Hypericum perforatum	Hypericaceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	0	0	Hypericum prolificum	Hypericaceae	0	4	1	3	1	0	2	1	1	1	1						1						3
+1	1	1	Hypericum punctatum	Hypericaceae	0	1	3	3	2	0	2	1	1		1				1								2
+1	0	0	Hypericum sphaerocarpum	Hypericaceae	0	1	3	3	1	0	2	1	1	1	1	1		1									4
+1	0	0	Hypoxis hirsuta	Hypoxidaceae	0	1	4	3	3	0	2	1	1		1												1
+1	0	1	Ilex opaca	Aquifoliaceae	0	4	1	3	1	1	1	3	1		1	1											2
+1	0	0	Ilex verticillata	Aquifoliaceae	0	4	1	3	2	0	2	3	1								1						1
+1	1	1	Impatiens capensis	Balsaminaceae	0	1	5	1	1	0	2	1	1		1									1			2
+1	1	1	Impatiens pallida	Balsaminaceae	0	1	5	1	1	0	2	1	1		1				1								2
+1	1	1	Inula helenium	Asteraceae	1	1	3	3	1	0	2	2	1						1						1		2
+1	1	1	Iodanthus pinnatifidus	Brassicaceae	0	1	3	3	1	0	2	1	1											1			1
+1	0	1	Ipomoea hederacea	Convolvulaceae	1	8	5	1	1	0	2	1	1						1						1		2
+1	0	1	Ipomoea pandurata	Convolvulaceae	0	8	4	3	3	0	2	1	1		1	1											2
+1	0	1	Ipomoea purpurea	Convolvulaceae	1	8	5	1	2	0	2	1	1						1						1		2
+1	0	0	Iris brevicaulis	Iridaceae	0	1	4	3	3	0	2	1	1		1						1			1			3
+1	0	1	Iris germanica	Iridaceae	1	1	4	3	3	0	2	1	1						1						1		2
+1	1	1	Iris virginica	Iridaceae	0	1	4	3	3	0	2	1	1	1	1						1						3
+1	1	1	Jeffersonia diphylla	Berberidaceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	0	1	Juglans cinerea	Juglandaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	0	1	Juglans nigra	Juglandaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	1	0	Juncus acuminatus	Juncaceae	0	3	3	3	1	0	2	6	0					1						1			2
+1	0	0	Juncus brachycephalus	Juncaceae	0	3	3	3	1	0	2	6	0								1						1
+1	1	0	Juncus canadensis	Juncaceae	0	3	4	3	3	0	2	6	0								1						1
+1	0	1	Juncus dudleyi	Juncaceae	0	3	3	3	1	0	2	4	0						1								1
+1	0	1	Juncus effusus	Juncaceae	0	3	3	3	3	0	2	6	0	1							1			1			3
+1	0	0	Juncus nodosus	Juncaceae	0	3	4	3	3	0	2	2	0								1						1
+1	1	1	Juncus tenuis	Juncaceae	0	3	3	3	2	0	2	4	0						1					1			2
+1	1	0	Juncus torreyi	Juncaceae	0	3	5	3	3	0	2	2	0		1				1		1						3
+1	0	1	Juniperus virginiana	Cupressaceae	0	5	1	3	1	0	1	3	0		1	1			1								3
+1	1	1	Justicia americana	Acanthaceae	0	1	6	3	3	0	2	6	1								1						1
+1	0	0	Krigia biflora	Asteraceae	0	1	3	3	1	0	2	2	1		1				1								2
+1	0	0	Kummerowia stipulacea	Fabaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	0	Kyllinga pumila	Cyperaceae	1	3	5	"            1,3"	1	0	2	"1,2"	0						1					1	1		3
+1	0	1	Lactuca biennis	Asteraceae	0	1	5	"            1,2"	1	0	2	2	1		1				1								2
+1	1	1	Lactuca canadensis	Asteraceae	0	1	3	"            1,2"	1	0	2	2	1		1				1						1		3
+1	1	1	Lactuca floridana	Asteraceae	0	1	5	"            1,2"	1	0	2	2	1		1	1											2
+1	1	0	Lactuca saligna	Asteraceae	1	1	5	"            1,2"	1	1	2	2	1						1						1		2
+1	0	0	Lactuca sativa	Asteraceae	1	1	3	"         1,2,3"	1	1	2	2	1						1						1		2
+1	1	1	Lactuca serriola	Asteraceae	1	1	5	"            1,2"	1	1	2	2	1						1						1		2
+1	1	1	Lamium amplexicaule	Lamiaceae	1	1	5	1	1	0	2	4	1						1						1		2
+1	1	1	Lamium purpureum	Lamiaceae	1	1	5	1	1	0	2	4	1						1						1		2
+1	1	1	Laportea canadensis	Urticaceae	0	1	4	3	3	0	2	1	0	1	1												2
+1	1	0	Lappula squarrosa	Boraginaceae	1	1	5	"            1,2"	1	0	2	4	1						1						1		2
+1	0	1	Lapsana communis	Asteraceae	1	1	5	1	1	0	2	2	1	1	1				1						1		4
+1	0	1	Lathyrus latifolius	Fabaceae	1	8	3	3	1	0	2	1	1						1						1		2
+1	1	0	Lathyrus palustris	Fabaceae	0	8	4	3	3	0	2	1	1		1						1			1			3
+1	0	0	Leersia lenticularis	Poaceae	0	3	3	3	3	0	2	1	0								1			1			2
+1	1	1	Leersia oryzoides	Poaceae	0	3	3	3	3	0	2	1	0		1				1		1						3
+1	1	1	Leersia virginica	Poaceae	0	3	3	3	3	0	2	1	0		1												1
+1	0	1	Lemna minor	Araceae	0	10	7	3	2	0	2	3	1								1						1
+1	0	0	Lemna trisulca	Araceae	0	10	7	3	2	0	2	3	1								1						1
+1	1	1	Leonurus cardiaca	Lamiaceae	1	1	3	3	1	1	2	1	1						1						1		2
+1	1	1	Lepidium campestre	Brassicaceae	1	1	3	"            1,2"	1	0	2	1	1						1						1		2
+1	1	0	Lepidium densiflorum	Brassicaceae	1	1	5	"            1,2"	1	0	2	1	1						1			1		1	1		4
+1	1	1	Lepidium virginicum	Brassicaceae	0	1	5	"            1,2"	1	0	2	1	1			1	1		1		1				1		5
+1	0	0	Lespedeza capitata	Fabaceae	0	1	3	3	1	0	2	1	1		1				1	1							3
+1	0	0	Lespedeza cuneata	Fabaceae	1	"1,4"	2	3	1	0	2	1	1			1			1						1		3
+1	0	0	Lespedeza frutescens	Fabaceae	0	1	3	3	1	0	2	1	1		1												1
+1	0	0	Lespedeza violacea	Fabaceae	0	1	3	3	1	0	2	1	1		1												1
+1	1	0	Leucanthemum vulgare	Asteraceae	1	1	3	3	3	0	2	1	1						1						1		2
+1	0	1	Leucospora multifida	Plantaginaceae	0	1	5	1	1	0	2	1	1								1						1
+1	0	0	Liatris spicata	Asteraceae	0	1	4	3	3	0	2	2	1								1						1
+1	0	1	Ligustrum obtusifolium	Oleaceae	1	4	1	3	1	0	2	1	1			1			1						1		3
+1	1	1	Lilium michiganense	Liliaceae	0	1	4	3	3	0	2	1	1		1			1			1			1			4
+1	1	0	Linaria vulgaris	Plantaginaceae	1	1	3	3	2	0	2	1	1						1						1		2
+1	1	1	Lindera benzoin	Lauraceae	0	4	1	3	3	0	2	3	1	1	1												2
+1	1	1	Lindernia dubia	Linderniaceae	0	1	5	1	1	0	2	1	1								1						1
+1	1	0	Liparis liliifolia	Orchidaceae	0	1	3	3	1	0	2	4	1	1	1												2
+1	0	0	Liparis loeselii	Orchidaceae	0	1	3	3	1	0	2	2	1	1	1												2
+1	1	0	Lipocarpha micrantha	Cyperaceae	0	3	5	1	1	0	2	1	0			1?				1?							0
+1	0	1	Liquidambar styraciflua	Altingiaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	1	1	Liriodendron tulipifera	Magnoliaceae	0	5	1	3	1	0	2	2	1	1													1
+1	0	0	Lithospermum canescens	Boraginaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	1	1	Lithospermum latifolium	Boraginaceae	0	1	3	3	1	0	2	1	1		1	1											2
+1	1	0	Lobelia cardinalis	Campanulaceae	0	1	3	3	1	0	2	1	1		1						1						2
+1	1	1	Lobelia inflata	Campanulaceae	0	1	5	1	1	0	2	1	1		1												1
+1	0	0	Lobelia kalmii	Campanulaceae	0	1	3	3	1	0	2	1	1								1						1
+1	1	1	Lobelia siphilitica	Campanulaceae	0	1	3	3	1	0	2	1	1								1						1
+1	0	0	Lobelia spicata	Campanulaceae	0	1	3	3	1	0	2	1	1							1					1		2
+1	1	1	Lolium perenne	Poaceae	1	3	3	"            1,3"	1	0	2	1	0						1						1		2
+1	0	1	Lonicera japonica	Caprifoliaceae	1	4	1	3	1	0	2	3	1		1	1									1		3
+1	0	1	Lonicera maackii	Caprifoliaceae	1	4	1	3	1	0	2	3	1		1	1									1		3
+1	0	1	Lonicera morrowii	Caprifoliaceae	0	4	1	3	1	0	2	3	1			1									1		2
+1	0	1	Lonicera tatarica	Caprifoliaceae	1	4	1	3	1	0	2	3	1		1	1									1		3
+1	0	1	Lonicera xbella	Caprifoliaceae	1	4	1	3	1	0	2	3	1		1										1		2
+1	0	1	Lotus corniculatus	Fabaceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	1	1	Ludwigia palustris	Onagraceae	0	1	3	3	2	0	2	1	1						1		1			1	1		4
+1	1	1	Ludwigia peploides	Onagraceae	1	10	3	3	1	0	2	1	1								1			1			2
+1	0	1	Lunaria annua	Brassicaceae	1	1	5	"            1,2"	1	0	2	1	1						1						1		2
+1	0	0	Luzula echinata	Juncaceae	0	3	4	3	3	0	2	4	0		1	1			1								3
+1	0	0	Luzula multiflora	Juncaceae	0	3	4	3	3	0	2	4	0		1	1			1								3
+1	1	0	Lycium barbarum	Solanaceae	1	"4, 8"	1	3	1	1	2	3	1						1						1		2
+1	1	1	Lycopus americanus	Lamiaceae	0	1	4	3	3	0	2	6	1								1			1			2
+1	0	0	Lycopus rubellus	Lamiaceae	0	1	3	3	2	0	2	6	1								1						1
+1	1	1	Lycopus uniflorus	Lamiaceae	0	1	3	3	2	0	2	6	1								1						1
+1	1	1	Lycopus virginicus	Lamiaceae	0	1	3	3	2	0	2	6	1								1						1
+1	1	1	Lysimachia ciliata	Myrsinaceae	0	1	4	3	3	0	2	1	1								1						1
+1	1	0	Lysimachia hybrida	Myrsinaceae	0	1	4	3	3	0	2	1	1		1				1		1						3
+1	1	1	Lysimachia lanceolata	Myrsinaceae	0	1	3	3	2	0	2	1	1		1				1								2
+1	1	1	Lysimachia nummularia	Myrsinaceae	1	1	2	3	2	0	2	1	1								1						1
+1	1	0	Lysimachia quadriflora	Myrsinaceae	0	1	4	3	3	0	2	1	1					1									1
+1	0	0	Lysimachia quadrifolia	Myrsinaceae	0	1	3	3	2	0	2	1	1	1	1												2
+1	0	0	Lysimachia thyrsiflora	Myrsinaceae	0	1	6	3	2	0	2	1	1		1						1						2
+1	1	0	Lythrum alatum	Lythraceae	0	1	3	3	2	0	2	1	1						1		1			1			3
+1	1	1	Lythrum salicaria	Lythraceae	1	1	3	3	2	0	2	2	1	1							1			1			3
+1	1	1	Maclura pomifera	Moraceae	1	5	1	3	1	1	2	1	0		1										1		2
+1	0	0	Magnolia acuminata	Magnoliaceae	0	5	1	3	1	0	2	3	1	1	1												2
+1	1	1	Maianthemum racemosum	Ruscaceae	0	1	4	3	3	0	2	3	1	1	1									1			3
+1	1	1	Maianthemum stellatum	Ruscaceae	0	1	4	3	3	0	2	3	1	1	1				1					1			4
+1	0	0	Malus coronaria	Rosaceae	0	4	1	3	1	1	2	3	1	1	1	1											3
+1	1	0	Malva neglecta	Malvaceae	1	1	5	"          1,2,3"	1	0	2	1	1						1						1		2
+1	0	1	Matricaria discoidea	Asteraceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	1	Medeola virginiana	Liliaceae	0	1	4	3	3	0	2	3	1	1	1												2
+1	1	1	Medicago lupulina	Fabaceae	1	1	5	"1, 2"	1	0	2	3	1						1						1		2
+1	1	1	Medicago sativa	Fabaceae	1	1	3	3	1	0	2	3	1						1						1		2
+1	1	1	Melilotus officinalis	Fabaceae	1	1	3	2	1	0	2	1	1			1									1	1	3
+1	1	1	Menispermum canadense	Menispermaceae	0	8	2	3	1	0	2	3	1	1	1	1											3
+1	1	1	Mentha arvensis	Lamiaceae	1	1	4	3	3	0	2	4	1												1		1
+1	1	0	Mentha spicata	Lamiaceae	1	1	4	3	3	0	2	4	1											1			1
+1	1	1	Mentha xpiperita	Lamiaceae	1	1	4	3	"2,3"	0	2	1	1								1				1		2
+1	1	1	Mertensia virginica	Boraginaceae	0	1	3	3	1	0	2	1	1	1	1												2
+1	1	1	Mimulus alatus	Phrymaceae	0	1	3	3	2	0	2	1	1		1									1			2
+1	1	1	Mimulus ringens	Phrymaceae	0	1	3	3	2	0	2	1	1		1						1						2
+1	1	1	Mirabilis nyctaginea	Nyctaginaceae	1	1	4	3	3	0	2	"1,2"	1			1			1								2
+1	1	1	Mitella diphylla	Saxifragaceae	0	1	3	3	2	0	2	1	1	1	1												2
+1	0	1	Mollugo verticillata	Molluginaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	1	Monarda clinopodia	Lamiaceae	0	1	3	3	1	0	2	1	1		1	1?											1
+1	1	1	Monarda fistulosa	Lamiaceae	0	1	3	3	2	0	2	3	1		1	1			1								3
+1	0	1	Monotropa hypopithys	Ericaceae	0	9	3	3	1	0	2	1	1		1												1
+1	0	0	Monotropa uniflora	Ericaceae	0	9	4	3	3	0	2	1	1	1	1												2
+1	1	1	Morus alba	Moraceae	1	5	1	3	1	0	2	3	0		1										1		2
+1	1	1	Morus rubra	Moraceae	0	5	1	3	1	0	2	3	0	1	1									1			3
+1	0	1	Muhlenbergia frondosa	Poaceae	0	3	4	3	3	0	2	4	0		1	1			1					1			4
+1	1	1	Muhlenbergia mexicana	Poaceae	0	3	4	3	3	0	2	4	0	1	1												2
+1	1	1	Muhlenbergia schreberi	Poaceae	0	3	3	3	1	0	2	4	0						1						1		2
+1	0	0	Muhlenbergia sobolifera	Poaceae	0	3	4	3	3	0	2	4	0	1	1												2
+1	0	0	Muhlenbergia tenuiflora	Poaceae	0	3	4	3	3	0	2	4	0	1	1												2
+1	0	1	Muscari botryoides	Hyacinthaceae	1	1	4	3	3	0	2	1	1						1						1		2
+1	0	0	Myosotis scorpioides	Boraginaceae	1	1	3	3	1	0	2	1	1								1						1
+1	0	1	Narcissus poeticus	Amaryllidaceae1	1	1	4	3	3	0	2	1	1								1				1		2
+1	0	1	Narcissus pseudonarcissus	Amaryllidaceae	1	1	4	3	3	0	2	2	1						1						1		2
+1	1	1	Nasturtium officinale	Brassicaceae	1	10	7	3	2	0	1	1	1								1						1
+1	0	0	Rorippa_aquatica	Brassicaceae	0	10	7	3	1	0	2	1	1								1						1
+1	1	1	Nepeta cataria	Lamiaceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	0	0	Nicandra physalodes	Solanaceae	1	1	5	1	1	0	2	3	1						1						1		2
+1	0	1	Nuphar advena	Nymphaeaceae	0	10	6	3	2	0	2	1	1								1						1
+1	1	0	Nuphar lutea	Nymphaeaceae	0	10	7	3	3	0	2	3	1								1						1
+1	0	1	Nymphaea odorata	Nymphaeaceae	0	10	7	3	3	0	2	3	1								1						1
+1	1	1	Nyssa sylvatica	Nyssaceae	0	5	1	3	1	0	2	3	1	1	1												2
+1	1	1	Oenothera biennis	Onagraceae	0	1	3	"            2,3"	1	0	2	1	1						1						1		2
+1	0	0	Oenothera fruticosa	Onagraceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	1	0	Oenothera laciniata	Onagraceae	0	1	5	"            1,3"	1	0	2	1	1						1						1		2
+1	0	0	Oenothera nutans	Onagraceae	0	1	3	2	1	0	2	1	1						1						1	1?	2
+1	0	0	Oenothera pilosella	Onagraceae	0	1	4	3	3	0	2	1	1		1				1								2
+1	1	1	Oenothera speciosa	Onagraceae	1	1	3	"            1,3"	1	0	2	1	1						1						1		2
+1	0	0	Solidago ohioense	Asteraceae	0	1	3	3	1	0	2	2	1								1						1
+1	0	0	Solidago riddellii	Asteraceae	0	1	3	3	3	0	2	2	1					1			1						2
+1	0	0	Solidago rigidum	Asteraceae	0	1	3	3	1	0	2	2	1					1									1
+1	1	1	Onoclea sensibilis	Dryopteridaceae	0	2	4	3	3	0	1	2	0		1						1						2
+1	0	0	Onosmodium bejariense	Boraginaceae	0	1	3	3	1	0	2	1	1		1												1
+1	1	1	Ophioglossum vulgatum	Ophioglossaceae	0	2	3	3	1	0	2	1	0		1									1			2
+1	1	0	Orbexilum onobrychis	Fabaceae	0	1	3	3	3	0	2	1	1		1			1									2
+1	1	1	Ornithogalum umbellatum	Hyacinthaceae	1	1	4	3	3	0	2	1	1						1						1		2
+1	1	1	Osmorhiza claytonii	Apiaceae	0	1	3	3	1	0	2	4	1	1	1												2
+1	1	1	Osmorhiza longistylis	Apiaceae	0	1	3	3	1	0	2	4	1	1	1												2
+1	0	0	Osmunda cinnamomea	Osmundaceae	0	2	4	3	3	0	2	2	0		1						1			1			3
+1	0	0	Osmunda regalis	Osmundaceae	0	2	4	3	3	0	2	2	0		1						1						2
+1	1	1	Ostrya virginiana	Betulaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	0	1	Oxalis grandis	Oxalidaceae	0	1	5	1	3	0	2	1	1		1												1
+1	1	1	Oxalis stricta	Oxalidaceae	0	1	4	3	3	0	2	1	1						1						1		2
+1	1	0	Oxalis violacea	Oxalidaceae	0	1	4	3	3	0	2	1	1		1				1								2
+1	1	1	Oxypolis rigidior	Apiaceae	0	1	6	3	1	0	2	6	1						1		1						2
+1	1	1	Packera aurea	Asteraceae	0	1	4	3	3	0	1	2	1		1						1						2
+1	1	1	Packera glabella	Asteraceae	1	1	5	1	1	0	2	2	1		1			1			1						3
+1	1	1	Packera obovata	Asteraceae	0	1	4	3	3	0	1	2	1		1				1								2
+1	1	1	Panax quinquefolius	Araliaceae	0	1	4	3	3	0	2	3	1	1	1												2
+1	1	1	Panicum capillare	Poaceae	0	3	5	1	1	0	2	4	0						1						1		2
+1	0	1	Panicum dichotomiflorum	Poaceae	0	3	5	1	1	0	2	3	0								1			1	1		3
+1	1	0	Panicum gattingeri	Poaceae	0	3	5	1	1	0	2	4	0						1						1	1	3
+1	0	0	Panicum leibergii	Poaceae	0	3	3	3	1	0	2	1	0					1									1
+1	1	0	Panicum philadelphicum	Poaceae	0	3	5	1	1	0	2	1	0						1								1
+1	0	0	Panicum rigidulum	Poaceae	0	3	3	3	1	0	2	1	0					1									1
+1	1	1	Panicum virgatum	Poaceae	0	3	4	3	3	0	2	3	0		1				1				1	1			4
+1	1	1	Parietaria pensylvanica	Urticaceae	0	1	5	1	1	0	2	1	0	1	1												2
+1	0	0	Parnassia glauca	Parnassiaceae	0	1	3	3	1	0	2	1	1								1						1
+1	0	0	Paronychia canadensis	Caryophyllaceae	0	1	5	1	1	0	2	1	1						1								1
+1	0	0	Paronychia fastigiata	Caryophyllaceae	0	1	5	1	1	0	2	1	1		1				1								2
+1	0	0	Parthenium integrifolium	Asteraceae	0	1	3	3	2	0	2	1	1		1				1								2
+1	1	1	Parthenocissus quinquefolia	Vitaceae	0	8	1	3	1	0	2	3	1	1	1												2
+1	1	0	Pascopyrum smithii	Poaceae	0	3	3	3	1	0	2	1	0					1									1
+1	1	0	Paspalum laeve	Poaceae	0	3	3	3	1	0	2	1	0						1								1
+1	1	0	Paspalum setaceum	Poaceae	0	3	3	3	1	0	2	3	0						1								1
+1	1	0	Passiflora lutea	Passifloraceae	0	8	3	3	1	0	2	1	1		1									1			2
+1	1	1	Pastinaca sativa	Apiaceae	1	1	3	2	1	0	2	1	1						1						1		2
+1	0	0	Pedicularis canadensis	Orobanchaceae	0	9	4	3	3	0	2	1	1		1				1								2
+1	0	0	Pedicularis lanceolata	Orobanchaceae	0	9	3	3	1	0	2	1	1		1						1						2
+1	1	0	Pennisetum glaucum	Poaceae	1	3	3	"            2,3"	1	0	2	2	0						1						1		2
+1	1	1	Penstemon calycosus	Plantaginaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	1	1	Penstemon deamii	Plantagninaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	1	1	Penstemon digitalis	Plantaginaceae	0	1	3	"            2,3"	1	0	2	1	1		1				1								2
+1	1	0	Penstemon hirsutus	Plantaginaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	1	0	Penstemon pallidus	Plantaginaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	1	1	Penthorum sedoides	Penthoraceae	0	1	3	3	2	0	2	6	1								1						1
+1	0	0	Perilla frutescens	Lamiaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	1	Phacelia bipinnatifida	Hydrophyllaceae	0	1	3	2	1	0	2	1	1		1												1
+1	1	0	Phacelia purshii	Boraginaceae	0	1	5	1	1	0	2	1	1	1	1												2
+1	0	1	Phalaris arundinacea	Poaceae	0	3	4	2	3	0	2	2	0								1			1			2
+1	0	1	Phegopteris hexagonoptera	Thelypteridaceae	0	2	4	3	3	0	2	2	0	1	1	1											3
+1	1	1	Phleum pratense	Poaceae	1	3	3	3	1	0	2	3	0						1						1		2
+1	0	0	Phlox bifida	Polemoniaceae	0	1	2	3	2	0	2	1	1					1									1
+1	1	1	Phlox divaricata	Polemoniaceae	0	1	2	3	2	0	2	1	1	1	1												2
+1	0	0	Phlox glaberrima	Polemoniaceae	0	1	3	3	1	0	2	1	1		1			1									2
+1	0	1	Phlox maculata	Polemoniaceae	0	1	3	3	1	0	2	1	1		1			1									2
+1	1	1	Phlox paniculata	Polemoniaceae	1	1	3	3	1	0	2	1	1		1									1			2
+1	0	0	Phlox pilosa	Polemoniaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	0	1	Phlox subulata	Polemoniaceae	1	1	2	3	2	0	2	1	1						1								1
+1	1	0	Photinia floribunda	Rosaceae	0	4	1	3	3	0	2	3	1		1					1							2
+1	1	0	Photinia melanocarpa	Rosaceae	0	4	1	3	3	0	2	3	1	1	1												2
+1	0	1	Phragmites australis	Poaceae	0	3	5	3	3	0	2	4	0		1	1		1			1			1			5
+1	1	1	Phryma leptostachya	Phrymaceae	0	1	3	3	2	0	2	1	1	1	1												2
+1	1	1	Phyla lanceolata	Verbenaceae	0	1	3	3	1	0	2	3	1								1			1			2
+1	0	1	Physalis heterophylla	Solanaceae	0	1	4	3	3	0	2	3	1		1				1								2
+1	1	1	Physalis longifolia	Solanaceae	0	1	4	3	3	0	2	3	1		1			1									2
+1	1	1	Physocarpus opulifolius	Rosaceae	0	4	1	3	1	0	2	1	1											1			1
+1	1	1	Physostegia virginiana	Lamiaceae	0	1	3	3	1	0	2	1	1		1	1			1								3
+1	1	1	Phytolacca americana	Phytolaccaceae	0	1	4	3	3	0	2	3	1		1				1						1		3
+1	1	1	Pilea pumila	Urticaceae	0	1	5	1	1	0	2	1	0			1					1						2
+1	1	0	Plantago aristata	Plantaginaceae	1	1	5	"            1,3"	1	0	2	1	0						1						1		2
+1	0	0	Plantago cordata	Plantaginaceae	0	1	3	3	3	0	2	1	0											1			1
+1	1	1	Plantago lanceolata	Plantaginaceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	0	1	Plantago major	Plantaginaceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	1	1	Plantago rugelii	Plantaginaceae	0	1	3	3	1	0	2	1	0						1						1		2
+1	1	0	Plantago virginica	Plantaginaceae	0	1	5	"            1,2"	1	0	2	1	1						1						1		2
+1	0	0	Platanthera leucophaea	Orchidaceae	0	1	4	3	3	0	2	2	1					1			1						2
+1	0	0	Platanthera peramoena	Orchidaceae	0	1	4	3	3	0	2	2	1		1												1
+1	1	1	Platanus occidentalis	Platanaceae	0	5	1	3	1	0	2	2	0											1			1
+1	1	0	Poa annua	Poaceae	1	3	5	1	2	0	2	4	0						1						1		2
+1	0	0	Poa arida	Poaceae	1	3	4	3	3	0	2	1	0					1									1
+1	1	0	Poa chapmaniana	Poaceae	0	3	5	1	1	0	2	1	0								1						1
+1	1	0	Poa compressa	Poaceae	1	3	5	3	3	0	2	4	0						1		1				1		3
+1	0	0	Poa cuspidata	Poaceae	0	3	4	3	3	0	2	1	0	1	1												2
+1	0	0	Poa paludigena	Poaceae	0	3	4	3	1	0	2	1	0		1						1						2
+1	0	1	Poa palustris	Poaceae	0	3	3	3	1	0	2	1	0								1						1
+1	1	0	Poa pratensis	Poaceae	1	3	4	3	3	0	2	2	0						1			1			1		3
+1	0	0	Poa saltuensis	Poaceae	0	3	3	3	1	0	2	1	0		1												1
+1	1	1	Poa sylvestris	Poaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	0	1	Poa trivialis	Poaceae	1	3	3	3	2	0	2	2	0						1						1		2
+1	1	1	Podophyllum peltatum	Berberidaceae	0	1	4	3	3	0	2	4	1		1												1
+1	1	0	Polanisia dodecandra	Cleomaceae	0	1	5	1	1	0	2	1	1											1			1
+1	1	1	Polemonium reptans	Polemoniaceae	0	1	3	3	1	0	2	1	1	1	1												2
+1	1	0	Polygala polygama	Polygalaceae	0	1	3	2	1	0	2	1	1						1								1
+1	0	1	Polygala senega	Polygalaceae	0	1	3	3	1	0	2	1	1	1	1				1								3
+1	0	0	Polygala verticillata	Polygalaceae	0	1	5	1	1	0	2	2	1		1				1								2
+1	0	1	Polygonatum biflorum	Ruscaceae	0	1	4	3	3	0	2	3	1	1	1												2
+1	1	1	Polygonatum pubescens	Ruscaceae	0	1	4	3	3	0	2	3	1	1	1	1											3
+1	1	1	Polygonum amphibium	Polygonaceae	0	10	7	3	3	0	2	1	1								1						1
+1	1	1	Polygonum aviculare	Polygonaceae	1	1	5	1	1	0	2	1	1					1							1		2
+1	0	0	Polygonum bellardii	Polygonaceae	1	1	3	1	1	0	2	1	1					1							1		2
+1	0	1	Polygonum caespitosum	Polygonaceae	1	1	5	1	1	0	2	1	1					1							1		2
+1	1	0	Polygonum convolvulus	Polygonaceae	1	8	5	1	1	1	2	1	1					1							1		2
+1	0	1	Polygonum cuspidatum	Polygonaceae	1	1	4	3	3	0	2	1	1					1							1		2
+1	0	0	Polygonum erectum	Polygonaceae	0	1	5	1	1	0	2	1	1					1							1		2
+1	1	1	Polygonum hydropiper	Polygonaceae	1	1	5	1	1	0	2	3	1								1				1		2
+1	1	1	Polygonum hydropiperoides	Polygonaceae	0	1	4	3	3	0	2	1	1							1	1			1			3
+1	1	1	Polygonum lapathifolium	Polygonaceae	0	1	5	1	1	0	2	3	1	1				1						1	1		4
+1	1	1	Polygonum pensylvanicum	Polygonaceae	0	1	5	1	1	0	2	1	1					1							1		2
+1	1	1	Polygonum persicaria	Polygonaceae	1	1	5	1	1	0	2	1	1					1							1		2
+1	1	1	Polygonum punctatum	Polygonaceae	0	1	5	"1,3"	1	0	2	1	1								1						1
+1	1	0	Polygonum sagittatum	Polygonaceae	0	8	5	"1,3"	1	1	2	1	1								1						1
+1	1	0	Polygonum scandens	Polygonaceae	0	8	3	3	1	1	2	1	1	1	1	1									1		4
+1	1	1	Polygonum virginianum	Polygonaceae	0	1	4	3	3	0	2	1	1	1	1												2
+1	1	1	Polymnia canadensis	Asteraceae	0	1	3	3	1	0	2	2	1	1	1												2
+1	1	1	Polystichum acrostichoides	Dryopteridaceae	0	2	4	3	3	0	1	2	0		1												1
+1	0	1	Pontederia cordata	Pontederiaceae	0	1	6	3	3	0	2	1	1								1						1
+1	1	1	Populus deltoides	Salicaceae	0	5	1	3	1	0	2	2	0	1	1				1					1			4
+1	1	0	Populus grandidentata	Salicaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	0	0	Populus heterophylla	Salicaceae	0	5	1	3	1	0	2	2	0		1						1						2
+1	0	0	Populus tremuloides	Salicaceae	0	5	1	3	3	0	2	2	0	1	1									1			3
+1	0	1	Portulaca grandiflora	Portulacaceae	1	6	5	1	1	0	2	1	1						1						1		2
+1	1	1	Portulaca oleracea	Portulacaceae	1	6	5	1	2	0	2	1	1	1	1	1			1	1					1		6
+1	0	0	Potamogeton foliosus	Potamogetonaceae	0	10	7	3	3	0	2	6	0								1						1
+1	0	0	Potamogeton nodosus	Potamogetonaceae	0	10	7	3	2	0	2	1	0								1						1
+1	1	1	Potentilla norvegica	Rosaceae	0	1	5	"            1,3"	1	0	2	1	1						1						1		2
+1	1	1	Potentilla recta	Rosaceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	1	1	Potentilla simplex	Rosaceae	0	1	3	1	2	0	2	1	1		1				1								2
+1	0	1	Prenanthes alba	Asteraceae	0	1	4	3	3	0	2	2	1	1	1												2
+1	1	1	Prenanthes altissima	Asteraceae	0	1	4	3	3	0	2	2	1	1	1												2
+1	1	1	Prenanthes crepidinea	Asteraceae	0	1	4	3	3	0	2	2	1		1	1		1									3
+1	0	0	Prenanthes racemosa	Asteraceae	0	1	4	3	3	0	2	2	1						1					1			2
+1	1	1	Prunella vulgaris	Lamiaceae	1	1	3	3	1	0	2	1	1					1						1	1		3
+1	1	1	Prunus americana	Rosaceae	0	4	1	3	1	0	2	3	1	1	1	1			1								4
+1	0	0	Prunus angustifolia	Rosaceae	0	5	1	3	1	0	2	3	1		1	1									1		3
+1	1	1	Prunus serotina	Rosaceae	0	5	1	3	1	0	2	3	1	1	1										1		3
+1	0	1	Prunus virginiana	Rosaceae	0	4	1	3	1	0	2	3	1			1				1	1						3
+1	1	0	Pseudognaphalium obtusifolium	Asteraceae	0	1	5	"            1,2"	1	0	2	2	1		1				1								2
+1	1	1	Ptelea trifoliata	Rutaceae	0	4	1	3	1	0	2	2	1	1	1	1											3
+1	0	0	Pteridium aquilinum	Dennstaedtiaceae	0	2	4	3	3	0	2	2	0	1	1	1			1						1		5
+1	1	0	Pycnanthemum tenuifolium	Lamiaceae	0	1	3	3	2	0	2	1	1		1				1								2
+1	1	0	Pycnanthemum verticillatum	Lamiaceae	0	1	3	3	2	0	2	1	1		1	1											2
+1	1	0	Pycnanthemum virginianum	Lamiaceae	0	1	3	3	2	0	2	1	1		1				1								2
+1	1	1	Quercus alba	Fagaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	1	1	Quercus bicolor	Fagaceae	0	5	1	3	1	0	2	5	0											1			1
+1	1	1	Quercus imbricaria	Fagaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	1	1	Quercus macrocarpa	Fagaceae	0	5	1	3	1	0	2	5	0	1	1									1			3
+1	0	1	Quercus michauxii	Fagaceae	0	5	1	3	1	0	2	5	0		1												1
+1	1	1	Quercus muehlenbergii	Fagaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	1	1	Quercus palustris	Fagaceae	0	5	1	3	1	0	2	5	0		1									1			2
+1	1	1	Quercus rubra	Fagaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	1	1	Quercus shumardii	Fagaceae	0	5	1	3	1	0	2	5	0	1	1												2
+1	0	1	Quercus velutina	Fagaceae	0	5	1	3	1	0	2	5	0	1	1					1							3
+1	1	1	Ranunculus abortivus	Ranunculaceae	0	1	3	3	1	0	2	3	1	1	1												2
+1	0	0	Ranunculus acris	Ranunculaceae	1	1	4	3	3	0	2	1	1						1						1		2
+1	0	1	Ranunculus ficaria	Ranunculaceae	1	1	4	3	3	0	2	4	1						1						1		2
+1	1	0	Ranunculus flabellaris	Ranunculaceae	0	10	7	3	1	0	2	6	1								1						1
+1	1	1	Ranunculus hispidus	Ranunculaceae	0	1	3	3	1	0	2	1	1	1	1												2
+1	0	0	Ranunculus longirostris	Ranunculaceae	0	10	7	3	1	0	2	1	1								1						1
+1	0	1	Ranunculus micranthus	Ranunculaceae	0	1	3	3	1	0	2	1	1	1	1												2
+1	1	1	Ranunculus recurvatus	Ranunculaceae	0	1	3	3	1	0	2	4	1						1		1						2
+1	1	0	Ranunculus repens	Ranunculaceae	1	1	3	3	2	0	2	1	1						1						1		2
+1	1	0	Ratibida columnifera	Asteraceae	0	1	3	3	1	0	2	3	1					1									1
+1	1	0	Ratibida pinnata	Asteraceae	0	1	4	3	3	0	2	3	1						1								1
+1	0	1	Rhamnus cathartica	Rhamnaceae	1	4	1	3	1	1	2	3	1		1	1									1		3
+1	0	0	Rhamnus lanceolata	Rhamnaceae	0	4	1	3	1	0	2	3	1		1												1
+1	0	1	Rhodotypos scandens	Rosaceae	1	4	1	3	1	0	2	3	1		1	1									1		3
+1	0	1	Rhus aromatica	Anacardiaceae	0	4	1	3	2	0	2	3	1		1	1			1	1							4
+1	1	1	Rhus glabra	Anacardiaceae	0	4	1	3	3	0	2	3	1			1			1						1		3
+1	0	1	Rhus typhina	Anacardiaceae	0	4	1	3	3	0	2	3	1			1			1						1		3
+1	0	0	Rhynchospora capillacea	Cyperaceae	0	3	3	3	1	0	2	1	0		1						1						2
+1	0	0	Ribes americanum	Grossulariaceae	0	4	1	3	1	0	2	1	1	1	1												2
+1	1	1	Ribes cynosbati	Grossulariaceae	0	4	1	3	1	1	2	3	1	1	1												2
+1	1	0	Ribes missouriense	Grossulariaceae	0	4	1	3	1	1	2	3	1	1	1												2
+1	0	1	Robinia hispida	Fabaceae	1	4	1	3	3	0	2	1	1	1	1												2
+1	1	1	Robinia pseudoacacia	Fabaceae	1	5	1	3	3	1	2	1	1	1	1	1											3
+1	0	0	Robinia viscosa	Fabaceae	1	4	1	3	1	0	2	1	1	1	1												2
+1	1	0	Rorippa palustris	Brassicaceae	0	1	3	"          1,2,3"	1	0	2	1	1								1	1	1	1			4
+1	1	0	Rorippa sessiliflora	Brassicaceae	0	1	5	1	1	0	2	1	1								1						1
+1	1	1	Rorippa sylvestris	Brassicaceae	1	1	3	3	1	0	2	1	1						1			1			1		3
+1	0	0	Rosa arkansana	Rosaceae	0	4	1	3	3	1	2	3	1						1								1
+1	0	1	Rosa carolina	Rosaceae	0	4	1	3	3	1	2	3	1		1				1	1							3
+1	0	1	Rosa multiflora	Rosaceae	1	4	1	3	3	1	2	3	1		1	1									1		3
+1	1	1	Rosa palustris	Rosaceae	0	4	1	3	3	1	2	3	1								1			1			2
+1	0	0	Rosa rubiginosa	Rosaceae	1	4	1	3	3	1	2	3	1												1		1
+1	1	1	Rosa setigera	Rosaceae	0	4	1	3	3	1	2	3	1			1											1
+1	1	1	Rubus allegheniensis	Rosaceae	0	4	1	3	2	1	2	3	1			1			1						1		3
+1	1	0	Rubus hispidus	Rosaceae	0	4	1	3	2	1	2	3	1		1				1		1				1		4
+1	0	1	Rubus idaeus	Rosaceae	0	4	1	3	2	1	2	3	1	1	1			1							1		4
+1	0	0	Rubus laudatus	Rosaceae	0	4	1	3	2	1	2	3	1														0
+1	1	1	Rubus occidentalis	Rosaceae	0	4	1	3	2	1	2	3	1	1	1	1			1								4
+1	1	0	Rubus odoratus	Rosaceae	0	4	1	3	1	0	2	3	1		1												1
+1	0	0	Rubus pensilvanicus	Rosaceae	0	4	1	3	2	1	2	3	1	1	1												2
+1	1	1	Rudbeckia fulgida	Asteraceae	0	1	3	3	1	0	2	3	1		1												1
+1	1	1	Rudbeckia hirta	Asteraceae	0	1	3	"          1,2,3"	1	0	2	3	1		1				1						1		3
+1	1	1	Rudbeckia laciniata	Asteraceae	0	1	3	3	1	0	2	3	1		1												1
+1	0	0	Rudbeckia subtomentosa	Asteraceae	0	1	3	3	2	0	2	3	1						1								1
+1	1	1	Rudbeckia triloba	Asteraceae	0	1	3	"2,3"	1	0	2	3	1		1												1
+1	1	1	Ruellia caroliniensis	Acanthaceae	0	1	3	3	1	0	2	1	1		1												1
+1	0	1	Ruellia humilis	Acanthaceae	0	1	4	3	1	0	2	1	1		1			1									2
+1	1	1	Ruellia strepens	Acanthaceae	0	1	3	3	1	0	2	1	1		1												1
+1	1	1	Rumex acetosella	Polygonaceae	1	1	4	3	3	0	2	1	1						1						1		2
+1	1	1	Rumex crispus	Polygonaceae	1	1	3	3	1	0	2	1	0						1						1		2
+1	1	1	Rumex obtusifolius	Polygonaceae	1	1	3	3	1	0	2	1	1	1	1				1					1	1		5
+1	1	0	Rumex orbiculatus	Polygonaceae	0	1	3	3	1	0	2	1	0								1						1
+1	1	0	Rumex verticillatus	Polygonaceae	0	1	3	3	1	0	2	1	0								1						1
+1	0	0	Sabatia angularis	Gentianaceae	0	1	3	1	1	0	2	1	1								1						1
+1	0	0	Sagittaria brevirostra	Alismataceae	0	1	6	3	1	0	2	6	1								1						1
+1	1	1	Sagittaria latifolia	Alismataceae	0	1	6	3	3	0	2	6	1								1						1
+1	1	0	Sagittaria rigida	Alismataceae	0	1	6	3	1	0	2	6	1								1						1
+1	0	1	Salix alba	Salicaceae	1	5	1	3	1	0	2	2	0	1	1	1									1		4
+1	1	0	Salix amygdaloides	Salicaceae	0	5	1	3	1	0	2	2	0											1			1
+1	0	0	Salix cordata	Salicaceae	0	4	1	3	1	0	2	2	0							1				1			2
+1	1	1	Salix discolor	Salicaceae	0	4	1	3	1	0	2	2	0							1							1
+1	0	1	Salix eriocephala	Salicaceae	0	4	1	3	1	0	2	2	0											1			1
+1	0	0	Salix humilis	Salicaceae	0	4	1	3	3	0	2	2	0		1	1			1								3
+1	0	1	Salix interior	Salicaceae	0	4	1	3	3	0	2	2	0											1			1
+1	1	1	Salix nigra	Salicaceae	0	5	1	3	1	0	2	2	0											1			1
+1	0	0	Salix petiolaris	Salicaceae	0	4	1	3	3	0	2	2	0								1			1			2
+1	1	0	Salix sericea	Salicaceae	0	4	1	3	1	0	2	2	0											1			1
+1	1	0	Salsola tragus	Amaranthaceae	1	1	5	1	1	1	2	2	1						1						1		2
+1	0	0	Salvia lyrata	Lamiaceae	0	1	3	3	1	0	2	1	1		1	1											2
+1	0	0	Salvia xsylvestris	Lamiaceae	1	1	3	3	0	0	2	1	1						1						1	1	3
+1	1	1	Sambucus nigra	Adoxaceae	0	4	1	3	1	0	2	3	1	1	1	1	1		1					1			6
+1	1	1	Samolus valerandi	Theophrastaceae	0	1	3	3	1	0	2	1	1					1			1			1			3
+1	1	1	Sanguinaria canadensis	Papaveraceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	0	0	Sanguisorba canadensis	Rosaceae	0	1	4	3	3	0	2	1	1						1		1						2
+1	1	1	Sanicula canadensis	Apiaceae	0	1	3	2	1	0	2	4	1	1	1												2
+1	0	1	Sanicula marilandica	Apiaceae	0	1	3	3	1	0	2	4	1	1	1												2
+1	1	1	Sanicula odorata	Apiaceae	0	1	3	3	1	0	                         ?	4	1	1	1												2
+1	1	1	Sanicula trifoliata	Apiaceae	0	1	5	3	1	0	2	4	1	1													1
+1	1	1	Saponaria officinalis	Caryophyllaceae	1	1	3	3	2	0	2	1	1						1								1
+1	0	1	Sassafras albidum	Lauraceae	0	5	1	3	1	0	2	3	1	1	1												2
+1	1	1	Saururus cernuus	Saururaceae	0	1	6	3	1	0	2	1	1								1						1
+1	1	0	Saxifraga pensylvanica	Saxifragaceae	0	1	3	3	2	0	2	1	1								1						1
+1	1	1	Lolium pratense	Poaceae	1	3	3	3	1	0	3	1	0						1							1	2
+1	0	0	Schizachyrium scoparium	Poaceae	0	3	3	3	1	0	2	1	0						1								1
+1	0	0	Schoenoplectus acutus	Cyperaceae	0	3	4	3	3	3	2	"2,6"	0								1			1			2
+1	1	1	Schoenoplectus pungens	Cyperaceae	0	3	6	3	3	0	2	"2,6"	0								1			1			2
+1	1	1	Schoenoplectus tabernaemontani	Cyperaceae	0	3	4	3	3	0	2	"2,6"	0			1					1			1			3
+1	0	1	Scilla siberica	Hyacinthaceae	1	1	4	3	3	0	2	1	1					1							1		2
+1	1	1	Scirpus atrovirens	Cyperaceae	0	3	4	3	3	0	2	"3,6"	0								1						1
+1	1	0	Scirpus cyperinus	Cyperaceae	0	3	4	3	3	0	2	"3,6"	0								1						1
+1	1	0	Scirpus lineatus	Cyperaceae	0	3	3	3	2	0	2	1	0		1						1						2
+1	0	0	Scirpus pendulus	Cyperaceae	0	3	4	3	3	0	2	"3,6"	0								1						1
+1	0	0	Scleria triglomerata	Cyperaceae	0	3	4	3	3	0	2	4	0		1				1								2
+1	0	0	Scleria verticillata	Cyperaceae	0	3	5	1	1	0	2	"1,2"	0						1			1					2
+1	0	0	Sclerochloa dura	Poaceae	1	3	5	1	1	0	2	1	0														0
+1	1	1	Scrophularia marilandica	Scrophulariaceae	0	1	3	3	1	0	2	1	1		1												1
+1	0	1	Scutellaria galericulata	Lamiaceae	0	1	4	3	3	0	2	"1,2"	1								1						1
+1	1	0	Scutellaria incana	Lamiaceae	0	1	5	3	3	0	2	1	1	1													1
+1	1	1	Scutellaria lateriflora	Lamiaceae	0	1	4	3	3	0	2	6	1											1			1
+1	0	0	Scutellaria nervosa	Lamiaceae	0	1	5	3	3	0	2	1	1		1												1
+1	0	1	Scutellaria ovata	Lamiaceae	0	1	3	3	2	0	2	1	1	1	1												2
+1	0	0	Scutellaria parvula	Lamiaceae	0	1	4	3	3	0	2	1	1		1				1								2
+1	0	1	Securigera varia	Fabaceae	1	1	4	3	3	0	                         ?	1	1						1						1		2
+1	0	1	Coronilla varia	Fabaceae	1	1	3	3	1	0	2	1	1												1		1
+1	0	1	Sedum sarmentosum	Crassulaceae	1	6	2	3	2	0	2	2	1						1						1		2
+1	1	0	Sedum ternatum	Crassulaceae	0	6	2	3	2	0	2	2	1		1				1								2
+1	0	0	Selaginella apoda	Selaginellaceae	0	1	2	3	1	0	1	2	0								1			1			2
+1	0	1	Senecio vulgaris	Asteraceae	1	1	5	"            1,2"	1	0	2	2	1						1						1		2
+1	1	0	Senna hebecarpa	Fabaceae	0	1	3	3	1	0	2	1	1		1				1					1			3
+1	0	0	Senna marilandica	Fabaceae	0	"1, 4"	"5, 2"	3	1	0	2	1	1	1						1					1		3
+1	0	1	Setaria faberi	Poaceae	1	3	5	1	1	0	2	4	0						1						1		2
+1	0	0	Setaria italica	Poaceae	1	3	5	1	1	0	2	1	0						1						1		2
+1	1	1	Setaria pumila	Poaceae	1	3	5	1	1	0	2	2	0						1								1
+1	1	0	Setaria verticillata	Poaceae	1	3	5	1	1	0	2	4	0						1					1	1		3
+1	1	1	Setaria viridis	Poaceae	1	3	5	1	1	0	2	2	0						1						1		2
+1	1	0	Planodes virginicum	Brassicaceae	0	1	5	"1,2"	1	0	2	1	1		1										1	1	3
+1	1	1	Sicyos angulatus	Cucurbitaceae	0	8	5	1	1	0	2	1	1			1				1							2
+1	1	0	Sida spinosa	Malvaceae	1	1	5	"            1,3"	1	1	2	1	1						1						1		2
+1	1	1	Silene antirrhina	Caryophyllaceae	0	1	5	1	1	0	2	1	1			1			1						1		3
+1	0	0	Silene csereii	Caryophyllaceae	1	1	3	"2,3"	1	0	2	1	1					1							1		2
+1	1	1	Silene latifolia	Caryophyllaceae	1	1	3	"            2,3"	2	0	2	1	1						1						1		2
+1	1	1	Silene nivea	Caryophyllaceae	1	1	4	3	3	0	2	1	1		1												1
+1	1	1	Silene stellata	Caryophyllaceae	0	1	3	3	1	0	2	1	1		1												1
+1	1	1	Silene virginica	Caryophyllaceae	0	1	3	3	1	0	2	1	1	1	1			1									3
+1	0	1	Silene vulgaris	Caryophyllaceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	0	0	Silphium laciniatum	Asteraceae	0	1	3	3	1	0	2	2	1					1									1
+1	1	1	Silphium perfoliatum	Asteraceae	0	1	3	3	1	0	2	2	1		1												1
+1	0	0	Silphium terebinthinaceum	Asteraceae	0	1	3	3	1	0	2	2	1					1									1
+1	1	0	Sinapis arvensis	Brassicaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	1	Sisymbrium altissimum	Brassicaceae	1	1	5	"            1,2"	1	0	2	1	1						1						1		2
+1	1	1	Sisymbrium officinale	Brassicaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	0	Sisyrinchium albidum	Iridaceae	0	1	3	3	2	0	2	1	1		1				1								2
+1	1	1	Sisyrinchium angustifolium	Iridaceae	0	1	3	3	2	0	2	1	1		1				1								2
+1	1	0	Sium suave	Apiaceae	0	1	6	3	1	0	2	6	1								1						1
+1	0	0	Smilax ecirrata	Smilacaceae	0	8	4	3	3	0	2	3	1	1	1	1											3
+1	1	1	Smilax glauca	Smilacaceae	0	8	1	3	1	1	1	3	1		1	1			1								3
+1	0	0	Smilax herbacea	Smilacaceae	0	8	3	3	2	0	2	3	1		1	1			1								3
+1	1	1	Smilax lasioneura	Smilacaceae	0	8	3	3	2	0	2	3	1		1	1		1									3
+1	0	1	Smilax rotundifolia	Smilacaceae	0	8	1	3	1	1	2	3	1		1	1			1								3
+1	1	1	Smilax tamnoides	Smilacaceae	0	8	3	3	1	0	2	3	1		1	1											2
+1	0	1	Solanum carolinense	Solanaceae	1	1	4	3	3	1	2	3	1						1						1		2
+1	1	1	Solanum dulcamara	Solanaceae	1	8	1	3	1	0	2	3	1		1	1			1								3
+1	1	1	Solanum ptychanthum	Solanaceae	0	1	5	1	1	0	2	3	1					1							1		2
+1	0	0	Solanum rostratum	Solanaceae	1	1	5	1	1	1	2	3	1						1								1
+1	0	0	Solidago altissima	Asteraceae	0	1	4	3	3	0	2	2	1			1			1						1		3
+1	1	1	Solidago caesia	Asteraceae	0	1	3	3	2	0	2	2	1	1	1												2
+1	1	1	Solidago canadensis	Asteraceae	0	1	4	3	3	0	2	2	1		1				1								2
+1	1	1	Solidago flexicaulis	Asteraceae	0	1	4	3	3	0	2	2	1	1	1												2
+1	1	1	Solidago gigantea	Asteraceae	0	1	4	3	3	0	2	2	1						1								1
+1	1	1	Solidago juncea	Asteraceae	0	1	4	3	3	0	2	2	1		1				1								2
+1	1	0	Solidago nemoralis	Asteraceae	0	1	3	3	2	0	2	2	1		1												1
+1	1	1	Solidago patula	Asteraceae	0	1	3	3	2	0	2	2	1								1						1
+1	1	0	Solidago rugosa	Asteraceae	0	1	4	3	3	0	2	2	1	1	1												2
+1	0	0	Solidago uliginosa	Asteraceae	0	1	3	3	2	0	2	2	1								1						1
+1	0	0	Solidago ulmifolia	Asteraceae	0	1	3	3	2	0	2	2	1	1	1												2
+1	0	0	Sonchus arvensis	Asteraceae	1	1	3	3	2	1	2	2	1						1						1		2
+1	0	1	Sonchus asper	Asteraceae	1	1	5	1	1	1	2	2	1						1						1		2
+1	1	1	Sonchus oleraceus	Asteraceae	1	1	5	1	1	1	2	2	1						1						1		2
+1	0	1	Sorghastrum nutans	Poaceae	0	3	4	3	3	0	2	2	0						1								1
+1	0	0	Sorghum bicolor	Poaceae	1	3	5	1	1	0	2	1	0						1						1		2
+1	1	1	Sorghum halepense	Poaceae	1	3	4	3	3	0	2	4	0						1						1		2
+1	0	0	Sparganium angustifolium	Sparganiaceae	0	10	6	3	3	0	2	6	0								1						1
+1	1	1	Sparganium eurycarpum	Sparganiaceae	0	1	6	3	3	0	2	6	0								1						1
+1	0	0	Spartina pectinata	Poaceae	0	3	4	3	3	0	2	6	0						1			1			1		3
+1	0	0	Sphenopholis intermedia	Poaceae	0	3	3	3	1	0	2	1	0						1		1						2
+1	0	0	Sphenopholis nitida	Poaceae	0	3	3	3	1	0	2	1	0	1	1												2
+1	1	1	Sphenopholis obtusata	Poaceae	0	3	5	"            1,3"	1	0	2	1	0								1						1
+1	1	0	Spiraea alba	Rosaceae	0	4	1	3	3	0	2	1	1								1						1
+1	0	0	Spiranthes cernua	Orchidaceae	0	1	3	3	1	0	2	2	1						1	1							2
+1	0	0	Spiranthes lucida	Orchidaceae	0	1	3	3	1	0	2	2	1		1				1		1						3
+1	0	0	Spiranthes ovalis	Orchidaceae	0	1	3	3	1	0	2	2	1		1			1						1			3
+1	0	0	Spirodela polyrrhiza	Araceae	0	10	7	3	2	0	2	6	1								1						1
+1	1	0	Sporobolus compositus	Poaceae	1	3	3	3	1	0	2	1	0						1								1
+1	1	0	Sporobolus cryptandrus	Poaceae	0	3	3	3	1	0	2	1	0						1								1
+1	1	0	Sporobolus neglectus	Poaceae	0	3	5	1	1	0	2	1	0						1								1
+1	1	0	Sporobolus vaginiflorus	Poaceae	0	3	5	1	1	0	2	1	0						1								1
+1	0	0	Stachys aspera	Lamiaceae	0	1	3	1	1	0	2	1	1											1			1
+1	0	1	Stachys byzantina	Lamiaceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	1	1	Stachys palustris	Lamiaceae	0	1	4	3	3	0	2	1	1														0
+1	0	0	Stachys pilosa	Lamiaceae	0	1	4	3	3	0	2	1	1						1						1		2
+1	1	1	Stachys tenuifolia	Lamiaceae	0	1	3	3	2	0	2	1	1											1			1
+1	1	1	Staphylea trifolia	Staphyleaceae	0	4	1	3	1	0	2	1	1	1	1												2
+1	1	1	Stellaria media	Caryophyllaceae	1	1	5	"            1,3"	1	0	2	1	1		1				1					1	1		4
+1	1	1	Stellaria pubera	Caryophyllaceae	0	1	2	3	1	0	2	1	1	1	1												2
+1	1	0	Strophostyles helvola	Fabaceae	0	8	5	1	1	0	2	1	1			1											1
+1	1	1	Stylophorum diphyllum	Papaveraceae	0	1	4	3	3	0	1	4	1	1	1												2
+1	1	0	Symphoricarpos orbiculatus	Caprifoliaceae	1	4	1	3	1	0	2	3	1		1	1											2
+1	1	1	Symphyotrichum cordifolium	Asteraceae	0	1	4	3	3	0	2	2	1	1	1												2
+1	0	1	Symphyotrichum drummondii	Asteraceae	0	1	4	3	3	0	2	2	1		1	1											2
+1	0	1	Symphyotrichum ericoides	Asteraceae	0	1	4	3	3	0	2	2	1		1				1								2
+1	0	1	Symphyotrichum laeve	Asteraceae	0	1	4	3	3	0	2	2	1						1								1
+1	1	1	Symphyotrichum lanceolatum	Asteraceae	0	1	4	3	3	0	2	2	1								1			1			2
+1	0	1	Symphyotrichum lateriflorum	Asteraceae	0	1	4	3	3	0	2	2	1		1				1	1							3
+1	1	1	Symphyotrichum novae-angliae	Asteraceae	0	1	4	3	3	0	2	2	1		1				1								2
+1	0	0	Symphyotrichum oolentangiense	Asteraceae	0	1	4	3	3	0	2	2	1		1			1									2
+1	1	1	Symphyotrichum pilosum	Asteraceae	0	1	3	3	2	0	2	2	1		1				1								2
+1	0	0	Symphyotrichum praealtum	Asteraceae	0	1	4	3	3	0	2	2	1								1						1
+1	1	1	Symphyotrichum puniceum	Asteraceae	0	1	4	3	3	0	2	2	1								1						1
+1	0	0	Symphyotrichum shortii	Asteraceae	0	1	3	3	2	0	2	2	1	1	1												2
+1	0	0	Symphyotrichum xamethystinum	Asteraceae	0	1	4	3	3	0	2	2	1		1				1								2
+1	1	1	Symplocarpus foetidus	Araceae	0	1	6	3	3	0	2	3	1		1						1						2
+1	1	0	Synandra hispidula	Lamiaceae	0	1	3	3	1	0	2	1	1		1												1
+1	1	0	Taenidia integerrima	Apiaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	0	0	Tanacetum balsamita	Asteraceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	1	0	Tanacetum vulgare	Asteraceae	1	1	3	3	1	0	2	1	1						1						1		2
+1	1	1	Taraxacum officinale	Asteraceae	1	1	3	3	3	0	2	2	1						1						1		2
+1	1	1	Teucrium canadense	Lamiaceae	0	1	4	3	3	0	2	3	1						1								1
+1	1	1	Thalictrum dasycarpum	Ranunculaceae	0	1	3	3	1	0	2	1	1					1			1						2
+1	1	1	Thalictrum dioicum	Ranunculaceae	0	1	3	3	1	0	2	1	1	1	1												2
+1	1	1	Thalictrum revolutum	Ranunculaceae	0	1	3	3	1	0	2	1	1	1	1				1								3
+1	1	1	Thalictrum thalictroides	Ranunculaceae	0	1	4	3	3	0	2	1	1	1	1												2
+1	1	0	Thaspium barbinode	Apiaceae	0	1	5	3	1	0	2	1	1	1				1									2
+1	1	1	Thaspium trifoliatum	Apiaceae	0	1	3	3	1	0	2	2	1	1	1												2
+1	1	0	Thelypteris palustris	Thelypteridaceae	0	2	4	3	3	0	2	2	0								1						1
+1	1	1	Thlaspi arvense	Brassicaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	1	1	Tilia americana	Malvaceae	0	5	1	3	1	0	2	1	1	1	1												2
+1	1	1	Toxicodendron radicans	Anacardiaceae	0	8	1	3	3	0	2	3	1		1	1											2
+1	0	0	Toxicodendron vernix	Anacardiaceae	0	8	1	3	3	0	2	3	1								1						1
+1	0	0	Tradescantia ohiensis	Commelinaceae	0	1	3	3	1	0	2	1	1			1			1								2
+1	1	1	Tradescantia subaspera	Commelinaceae	0	1	3	3	1	0	2	1	1		1												1
+1	1	1	Tradescantia virginiana	Commelinaceae	0	1	3	3	1	0	2	1	1		1				1								2
+1	0	1	Tragopogon dubius	Asteraceae	"1,2"	1	3	3	1	0	2	2	1						1						1		2
+1	0	0	Tragopogon lamottei	Asteraceae	1	1	3	2	1	0	2	2	1												1		1
+1	1	1	Tragopogon porrifolius	Asteraceae	1	1	3	2	1	0	2	2	1						1						1		2
+1	0	1	Tragopogon pratensis	Asteraceae	1	1	3	2	1	0	2	2	1						1						1		2
+1	0	0	Triadenum fraseri	Hypericaceae	0	1	4	3	3	0	2	1	1								1						1
+1	0	0	Trichostema brachiatum	Lamiaceae	0	1	5	1	1	0	2	1	1						1								1
+1	1	1	Tridens flavus	Poaceae	0	3	3	3	2	0	2	1	0		1				1								2
+1	0	0	Trientalis borealis	Myrsinaceae	0	1	4	3	3	0	2	1	1	1	1						1						3
+1	0	1	Trifolium campestre	Fabaceae	1	1	5	1	1	0	2	3	1						1						1		2
+1	0	1	Trifolium dubium	Fabaceae	1	1	5	1	1	0	2	"1,4"	1						1						1		2
+1	0	1	Trifolium hybridum	Fabaceae	1	1	3	3	1	0	2	3	1						1						1		2
+1	1	1	Trifolium pratense	Fabaceae	1	1	3	3	1	0	2	3	1						1						1		2
+1	0	1	Trifolium repens	Fabaceae	1	1	5	3	2	0	2	3	1						1						1		2
+1	0	1	Trillium erectum	Melanthiaceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	0	1	Trillium flexipes	Melanthiaceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	0	1	Trillium nivale	Melanthiaceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	1	1	Trillium recurvatum	Melanthiaceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	1	1	Trillium sessile	Melanthiaceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	1	0	Triodanis perfoliata	Campanulaceae	0	1	5	1	1	0	2	1	1						1						1		2
+1	1	1	Triosteum aurantiacum	Caprifoliaceae	0	1	3	3	1	0	2	3	1		1	1											2
+1	0	0	Triosteum perfoliatum	Caprifoliaceae	0	1	3	3	1	0	2	3	1		1	1											2
+1	1	0	Triphora trianthophora	Orchidaceae	0	1	4	3	3	0	2	2	1	1	1												2
+1	1	1	Typha angustifolia	Typhaceae	0	1	6	3	3	0	2	2	0								1				1		2
+1	1	1	Typha latifolia	Typhaceae	0	1	6	3	3	0	2	2	0								1						1
+1	1	1	Ulmus americana	Ulmaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	0	1	Ulmus pumila	Ulmaceae	1	5	1	3	1	0	2	2	0		1	1									1		3
+1	1	1	Ulmus rubra	Ulmaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	1	0	Ulmus thomasii	Ulmaceae	0	5	1	3	1	0	2	2	0	1	1												2
+1	1	1	Urtica dioica	Urticaceae	0	1	4	3	3	1	2	1	0		1	1								1	1		4
+1	0	0	Utricularia macrorhiza	Lentibulariaceae	0	1	7	3	1	0	2	1	1								1						1
+1	0	1	Uvularia grandiflora	Colchicaceae	0	1	4	3	3	0	2	4	1	1	1												2
+1	1	1	Valeriana pauciflora	Valerianaceae	0	1	5	3	3	0	2	2	1								1						1
+1	0	0	Valerianella chenopodiifolia	Valerianaceae	0	1	5	"1,2"	1	0	2	1	1														0
+1	0	1	Valerianella radiata	Valerianaceae	0	1	5	"            1,2"	1	0	2	1	1														0
+1	1	1	Valerianella umbilicata	Valerianaceae	0	1	5	"            1,2"	1	0	2	1	1					1			1						2
+1	1	0	Veratrum virginicum	Melanthiaceae	0	1	4	3	3	0	2	1	1		1			1		1							3
+1	1	0	Veratrum woodii	Liliaceae	0	1	3	3	3	0	2	1	1		1										1		2
+1	1	1	Verbascum blattaria	Scrophulariaceae	1	1	3	2	1	0	2	1	1						1						1		2
+1	1	1	Verbascum thapsus	Scrophulariaceae	1	1	3	2	1	0	2	1	1						1						1		2
+1	1	1	Verbena bracteata	Verbenaceae	0	1	5	"            1,3"	1	0	2	3	1						1					1	1		3
+1	0	1	Verbena hastata	Verbenaceae	0	1	3	3	1	0	2	1	1						1		1						2
+1	1	1	Verbena simplex	Verbenaceae	0	1	3	3	1	0	2	1	1	1	1	1			1						1		5
+1	1	1	Verbena stricta	Verbenaceae	0	1	3	3	1	0	2	1	1			1			1						1		3
+1	1	1	Verbena urticifolia	Verbenaceae	0	1	3	"            1,3"	1	0	2	1	1			1									1		2
+1	0	0	Verbena xengelmannii	Verbenaceae	0	1	3	3	1	0	2	1	1			1			1						1		3
+1	0	0	Verbena xperriana	Verbenaceae	0	1	3	3	1	0	2	1	1			1			1						1		3
+1	1	1	Verbesina alternifolia	Asteraceae	0	1	3	3	1	0	2	4	1		1	1								1			3
+1	0	0	Vernonia fasciculata	Asteraceae	0	1	3	3	1	0	2	2	1						1		1						2
+1	1	1	Vernonia gigantea	Asteraceae	0	1	3	3	1	0	2	2	1		1						1						2
+1	1	1	Veronica anagallis-aquatica	Plantaginaceae	0	1	2	"            2,3"	1	0	2	1	1								1			1			2
+1	1	1	Veronica arvensis	Plantaginaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	0	Veronica officinalis	Plantaginaceae	0	1	2	3	1	0	2	1	1		1				1								2
+1	1	1	Veronica peregrina	Plantaginaceae	0	1	5	1	1	0	2	1	1						1					1			2
+1	0	1	Veronica persica	Plantaginaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	1	Veronica polita	Plantaginaceae	1	1	5	1	1	0	2	1	1						1						1		2
+1	0	0	Veronica scutellata	Plantaginaceae	0	1	3	3	2	0	2	1	1								1						1
+1	1	0	Veronica serpyllifolia	Plantaginaceae	1	1	3	3	3	0	2	1	1	1	1				1					1	1		5
+1	1	1	Veronicastrum virginicum	Plantaginaceae	0	1	3	3	2	0	2	1	1	1	1				1								3
+1	0	0	Viburnum acerifolium	Adoxaceae	0	4	1	3	1	0	2	3	1	1	1												2
+1	0	1	Viburnum dentatum	Adoxaceae	1	4	1	3	1	0	2	3	1	1	1												2
+1	0	1	Viburnum lantana	Adoxaceae	1	4	1	3	1	0	2	3	1			1									1		2
+1	0	0	Viburnum lentago	Adoxaceae	0	4	1	3	1	0	2	3	1	1	1										1		3
+1	0	1	Viburnum opulus	Adoxaceae	0	4	1	3	1	0	2	3	1	1	1												2
+1	1	1	Viburnum prunifolium	Adoxaceae	0	4	1	3	1	0	2	3	1	1	1	1									1		4
+1	1	1	Viburnum rafinesquianum	Adoxaceae	0	4	1	3	1	0	2	3	1		1												1
+1	1	1	Vicia villosa	Fabaceae	1	1	3	"            1,2"	1	0	2	1	1						1						1		2
+1	1	1	Vinca minor	Apocynaceae	1	4	2	3	2	0	2	4	1		1				1								2
+1	0	0	Viola affinis	Violaceae	0	1	3	"            1,3"	2	0	2	4	1		1				1		1						3
+1	1	0	Viola canadensis	Violaceae	0	1	3	3	2	0	2	4	1	1	1												2
+1	0	1	Viola cucullata	Violaceae	0	1	3	3	2	0	2	4	1								1						1
+1	0	0	Viola macloskeyi	Violaceae	0	1	4	3	3	0	2	4	1								1						1
+1	1	1	Viola pubescens	Violaceae	0	1	3	3	2	0	2	4	1	1	1												2
+1	0	1	Viola sagittata	Violaceae	0	1	3	3	2	0	2	4	1		1				1		1						3
+1	1	1	Viola sororia	Violaceae	0	1	3	3	2	0	2	4	1	1	1												2
+1	1	1	Viola striata	Violaceae	0	1	3	3	3	0	2	4	1								1						1
+1	1	1	Viola triloba	Violaceae	0	1	3	3	1	0	2	4	1		1												1
+1	0	1	Vitis aestivalis	Vitaceae	0	8	1	3	1	0	2	3	1		1	1									1		3
+1	1	1	Vitis cinerea	Vitaceae	0	8	1	3	1	0	2	3	1		1												1
+1	1	1	Vitis riparia	Vitaceae	0	8	1	3	1	0	2	3	1		1	1									1		3
+1	1	1	Vitis vulpina	Vitaceae	0	8	1	3	1	0	2	3	1		1	1											2
+1	0	0	Woodsia obtusa	Dryopteridaceae	0	2	4	3	3	0	2	2	0		1												1
+1	1	1	Xanthium strumarium	Asteraceae	0	1	5	1	1	1	2	4	1						1						1		2
+1	0	1	Yucca flaccida	Agavaceae	0	"1, 4"	"5, 2, 1"	3	3	0	1	1	1												1		1
+1	0	0	Zannichellia palustris	Potamogetonaceae	0	10	7	3	3	0	2	6	1								1						1
+1	1	1	Zanthoxylum americanum	Rutaceae	0	4	1	3	1	1	2	1	1	1	1	1											3
+1	0	1	Zea mays	Poaceae	1	3	5	1	1	0	2	1	0						1						1		2
+1	1	0	Zizia aurea	Apiaceae	0	1	3	3	1	0	2	1	1						1								1
